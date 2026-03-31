@@ -1,0 +1,12 @@
+experiment,method,n_or_k,elapsed_ms
+id_lookup,linear_search,1000,6449.509600002784
+id_lookup,hash_lookup,1000,0.7836000004317611
+top_k,sort_based_k10,10,68.48249999893596
+top_k,heap_based_k10,10,101.41290000319714
+top_k,sort_based_k100,100,96.50409999812837
+top_k,heap_based_k100,100,92.75039999920409
+range_query,linear_scan,100,2455.916499999148
+range_query,binary_search,100,38.81650000039372
+frequency,count_category,100000,52.448000002186745
+frequency,count_region,100000,51.25910000060685
+duplicates,hash_find,100000,123.07080000027781

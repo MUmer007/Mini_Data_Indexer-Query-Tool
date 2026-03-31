@@ -1,0 +1,2001 @@
+record_id,name,category,region,year,score,value
+1001377,Mia Demir,clothing,Black Sea,2018,34,6488.37
+1000275,Layla Kaya,clothing,Marmara,2018,100,6486.47
+1000540,Emre Silva,automotive,Eastern,2020,23,7100.4
+1000086,Priya Garcia,furniture,Central,2020,41,8940.07
+1001799,Ayse Smith,clothing,Mediterranean,2023,26,4813.49
+1001419,Ali Arslan,books,Marmara,2021,4,9892.99
+1000722,Lucas Demir,furniture,Marmara,2017,74,5963.65
+1000573,Can Ozturk,sports,Black Sea,2017,80,6125.08
+1000109,Emre Patel,furniture,Central,2019,44,2868.34
+1000003,Fatma Smith,electronics,Mediterranean,2018,92,6533.21
+1000029,Layla Celik,furniture,Aegean,2016,44,308.22
+1000858,Yuki Yilmaz,books,Eastern,2021,55,3715.78
+1001594,Noah Smith,sports,Aegean,2019,3,5419.61
+1000522,Layla Kaya,clothing,Mediterranean,2021,93,4010.09
+1000055,Sara Kaya,electronics,Central,2017,82,9799.02
+1001342,Layla Kaya,sports,Mediterranean,2021,9,1107.99
+1000042,Yuki Lee,electronics,Eastern,2020,8,596.36
+1001494,Fatma Patel,sports,Eastern,2021,8,9812.33
+1001972,Amina Tanaka,furniture,Mediterranean,2023,72,8774.44
+1000494,Sara Andersen,books,Black Sea,2022,66,3664.87
+1000513,Lena Silva,books,Mediterranean,2020,99,2155.39
+1001926,Fatma Lee,furniture,Marmara,2015,3,7574.95
+1000657,Priya Khan,sports,Southeastern,2023,41,7146.84
+1001010,Omar Arslan,clothing,Mediterranean,2015,50,6640.61
+1001341,Can Kaya,food,Central,2016,17,713.76
+1000344,Lena Garcia,electronics,Central,2020,89,2439.16
+1000293,Nina Ozturk,clothing,Aegean,2024,93,9028.91
+1001758,Lena Yilmaz,clothing,Aegean,2020,59,1504.01
+1000241,Ivan Khan,electronics,Eastern,2020,99,6217.89
+1000781,Emre Garcia,toys,Central,2023,63,7769.19
+1001605,Amina Dubois,electronics,Southeastern,2015,14,5468.92
+1001539,Lena Yilmaz,books,Marmara,2018,12,1734.45
+1000537,Lena Kaya,electronics,Aegean,2024,91,9179.6
+1001018,Carlos Kaya,furniture,Eastern,2017,2,1805.09
+1000726,Hassan Ozturk,furniture,Southeastern,2021,77,1512.71
+1002000,Priya Patel,furniture,Eastern,2017,97,7406.56
+1001211,Elif Khan,clothing,Black Sea,2016,32,7704.94
+1000005,Elif Ozturk,food,Central,2019,20,2231.39
+1001935,Ali Tanaka,electronics,Black Sea,2021,48,7649.97
+1000910,Noah Tanaka,books,Southeastern,2021,71,742.7
+1000471,Layla Demir,electronics,Eastern,2020,16,9881.75
+1001066,Ayse Patel,toys,Black Sea,2022,95,6481.73
+1001505,Lucas Sahin,food,Aegean,2015,16,2484.23
+1001082,Fatma Andersen,furniture,Southeastern,2019,26,323.21
+1001287,Omar Garcia,automotive,Marmara,2017,19,7858.76
+1001529,Lena Johnson,clothing,Southeastern,2018,36,197.64
+1001878,Ivan Khan,books,Central,2022,78,2380.23
+1000568,Wei Yilmaz,books,Black Sea,2023,51,5564.78
+1001651,Murat Demir,clothing,Southeastern,2019,71,8687.72
+1000066,Ivan Muller,electronics,Marmara,2019,23,5847.26
+1001883,Sara Lee,automotive,Eastern,2016,17,8706.77
+1000466,Emre Nguyen,automotive,Marmara,2021,26,9956.38
+1001005,Can Tanaka,sports,Aegean,2020,51,5788.36
+1001672,Priya Andersen,food,Southeastern,2015,72,7851.63
+1001751,Carlos Johnson,automotive,Mediterranean,2021,14,6842.81
+1001062,Omar Nguyen,toys,Southeastern,2016,25,8928.95
+1000265,Fatma Kaya,toys,Central,2023,51,9891.33
+1000486,Ivan Dubois,clothing,Central,2016,40,882.23
+1001121,Lena Celik,automotive,Marmara,2023,18,5008.08
+1000354,Diego Garcia,electronics,Black Sea,2019,1,7482.72
+1001975,Nina Rossi,electronics,Mediterranean,2021,40,3351.34
+1001414,Elif Dubois,books,Aegean,2019,16,5392.54
+1000258,Ayse Garcia,food,Marmara,2024,46,2481.35
+1000302,Murat Kaya,sports,Black Sea,2024,54,2557.63
+1001156,Mia Johnson,automotive,Eastern,2023,24,8820.0
+1001708,Murat Arslan,electronics,Mediterranean,2015,67,5165.76
+1001884,Lucas Demir,clothing,Marmara,2017,66,8681.25
+1001254,Can Lee,sports,Aegean,2023,78,6727.24
+1001621,Hassan Lee,automotive,Mediterranean,2023,30,3907.43
+1001426,Carlos Patel,books,Eastern,2023,73,1797.27
+1000034,Murat Silva,toys,Black Sea,2021,60,8651.12
+1000172,Lena Silva,clothing,Aegean,2017,70,8776.08
+1001374,Noah Johnson,books,Aegean,2016,38,4500.16
+1001673,Carlos Arslan,books,Eastern,2024,79,1531.57
+1000875,Diego Sahin,books,Eastern,2021,67,9609.04
+1000134,Carlos Kaya,food,Eastern,2020,78,2578.39
+1000279,Elif Ozturk,automotive,Mediterranean,2021,72,1265.72
+1000419,Mia Rossi,books,Mediterranean,2018,76,9971.93
+1001800,Omar Garcia,books,Mediterranean,2022,48,6709.56
+1000574,Priya Tanaka,electronics,Black Sea,2020,89,2451.8
+1001502,Fatma Demir,toys,Eastern,2024,14,6814.67
+1001785,Layla Muller,toys,Black Sea,2020,55,4718.4
+1000534,Yuki Arslan,automotive,Mediterranean,2019,23,4954.83
+1001067,Omar Arslan,books,Marmara,2018,67,6481.61
+1000847,Lena Patel,clothing,Black Sea,2024,13,5992.19
+1000210,Wei Muller,books,Marmara,2017,21,7568.16
+1001443,Hassan Nguyen,food,Mediterranean,2024,95,4390.53
+1000487,Fatma Sahin,toys,Black Sea,2024,82,7655.16
+1000361,Noah Sahin,sports,Aegean,2016,5,8113.02
+1001660,Yuki Tanaka,books,Aegean,2021,60,6723.92
+1001543,Wei Demir,food,Eastern,2023,96,3515.76
+1001200,Mia Rossi,clothing,Mediterranean,2015,75,1875.61
+1000243,Emre Nguyen,electronics,Black Sea,2020,87,7223.18
+1000195,Lena Dubois,clothing,Marmara,2017,36,6280.12
+1001578,Amina Arslan,furniture,Eastern,2022,13,841.23
+1000251,Noah Smith,food,Marmara,2020,29,379.03
+1000913,Amina Khan,books,Black Sea,2024,91,2942.87
+1000981,Diego Nguyen,toys,Southeastern,2017,34,7846.24
+1000271,Lena Garcia,sports,Black Sea,2024,92,4318.12
+1000523,Elif Tanaka,food,Aegean,2020,28,9091.3
+1001017,Can Sahin,automotive,Eastern,2015,61,9080.16
+1000032,Sara Patel,furniture,Mediterranean,2017,93,9360.66
+1000176,Mia Demir,sports,Mediterranean,2016,59,3748.63
+1000720,Diego Smith,food,Southeastern,2020,93,1221.94
+1001576,Wei Andersen,toys,Aegean,2019,27,5884.26
+1000612,Carlos Khan,toys,Black Sea,2017,44,9960.78
+1001124,Omar Silva,furniture,Southeastern,2016,61,9395.97
+1001084,Carlos Dubois,electronics,Eastern,2020,51,1564.52
+1000273,Noah Dubois,food,Central,2015,10,6744.05
+1000439,Lena Dubois,food,Mediterranean,2021,76,1230.78
+1001316,Zeynep Tanaka,books,Southeastern,2017,93,5608.59
+1000198,Ivan Arslan,food,Black Sea,2018,53,3455.08
+1000987,Priya Tanaka,automotive,Central,2017,68,8714.88
+1000815,Elif Kaya,automotive,Eastern,2024,20,3776.48
+1001619,Mia Rossi,toys,Black Sea,2021,62,6964.17
+1001959,Mia Muller,sports,Southeastern,2024,86,9100.47
+1000277,Noah Rossi,automotive,Southeastern,2016,74,1463.04
+1000230,Yuki Lee,electronics,Black Sea,2024,84,1963.38
+1000429,Lucas Yilmaz,books,Southeastern,2017,45,3187.4
+1000632,Wei Kaya,clothing,Marmara,2021,76,4878.0
+1000749,Ali Dubois,clothing,Eastern,2015,47,2468.4
+1001469,Sara Patel,automotive,Southeastern,2020,78,4351.16
+1000796,Lucas Johnson,clothing,Central,2015,1,5280.31
+1000088,Fatma Yilmaz,food,Black Sea,2020,70,4712.18
+1000509,Ayse Tanaka,books,Mediterranean,2024,8,4405.9
+1001428,Priya Sahin,toys,Aegean,2020,86,4872.61
+1000019,Emre Silva,books,Black Sea,2021,77,9960.61
+1001142,Omar Muller,electronics,Marmara,2024,6,1369.03
+1001716,Noah Rossi,books,Black Sea,2017,5,9584.21
+1001241,Priya Silva,food,Southeastern,2022,95,5828.17
+1001636,Wei Lee,books,Southeastern,2022,62,3200.26
+1000080,Mia Patel,food,Aegean,2017,84,6906.77
+1001063,Layla Yilmaz,books,Black Sea,2017,37,9585.78
+1001806,Emre Sahin,toys,Eastern,2024,44,4648.41
+1000673,Amina Dubois,sports,Black Sea,2024,71,3644.69
+1000380,Wei Sahin,electronics,Central,2023,75,5832.94
+1001776,Fatma Garcia,books,Marmara,2022,40,150.39
+1000126,Wei Celik,furniture,Eastern,2018,34,6637.58
+1001905,Nina Muller,furniture,Southeastern,2023,85,8391.75
+1000558,Amina Garcia,books,Black Sea,2016,40,7869.49
+1001151,Fatma Patel,books,Southeastern,2023,28,2944.53
+1001822,Zeynep Andersen,books,Aegean,2023,39,1098.94
+1000960,Omar Kaya,toys,Mediterranean,2015,1,7062.5
+1000506,Wei Garcia,books,Aegean,2023,31,4255.76
+1001706,Diego Andersen,electronics,Marmara,2020,45,4890.23
+1001441,Carlos Smith,sports,Central,2024,58,9679.52
+1001510,Hassan Johnson,books,Southeastern,2024,24,3900.82
+1000640,Hassan Muller,furniture,Central,2019,7,5118.09
+1000151,Ivan Lee,food,Black Sea,2020,25,9808.69
+1000738,Yuki Johnson,sports,Southeastern,2023,55,5689.67
+1000391,Noah Johnson,food,Marmara,2020,52,4643.62
+1001877,Wei Celik,furniture,Black Sea,2021,47,888.85
+1000044,Zeynep Dubois,books,Eastern,2018,52,1286.76
+1000716,Zeynep Khan,sports,Black Sea,2018,67,4117.43
+1001678,Mia Arslan,toys,Aegean,2018,87,5810.1
+1001396,Layla Kaya,toys,Mediterranean,2015,22,3334.72
+1001068,Lucas Andersen,toys,Eastern,2020,63,5973.64
+1000489,Ali Kaya,furniture,Marmara,2021,15,4587.93
+1000575,Wei Patel,sports,Central,2015,44,8191.3
+1000118,Emre Garcia,electronics,Eastern,2023,17,2815.41
+1000672,Priya Sahin,electronics,Aegean,2020,77,603.42
+1001273,Ali Garcia,food,Mediterranean,2016,94,693.4
+1001860,Ivan Arslan,food,Marmara,2024,11,2836.54
+1000120,Hassan Celik,electronics,Mediterranean,2019,61,4838.79
+1001567,Ali Celik,clothing,Black Sea,2015,36,9903.96
+1000578,Sara Silva,books,Aegean,2022,28,9142.07
+1001855,Ali Sahin,electronics,Central,2019,11,9987.18
+1001763,Omar Muller,automotive,Black Sea,2020,70,2647.4
+1001847,Murat Demir,automotive,Southeastern,2015,35,2851.6
+1000827,Lena Silva,toys,Marmara,2016,67,6622.36
+1001449,Noah Tanaka,automotive,Central,2024,10,4146.59
+1000081,Murat Silva,furniture,Aegean,2023,60,597.11
+1000373,Diego Dubois,electronics,Southeastern,2016,25,8065.24
+1000122,Mia Patel,books,Mediterranean,2015,20,1576.91
+1001213,Murat Tanaka,toys,Mediterranean,2016,42,1622.22
+1000565,Priya Kaya,clothing,Marmara,2022,23,9494.76
+1000894,Priya Khan,clothing,Black Sea,2022,12,7253.48
+1001988,Elif Yilmaz,toys,Eastern,2018,22,9065.77
+1000643,Hassan Demir,books,Black Sea,2021,5,5615.04
+1001867,Nina Yilmaz,furniture,Aegean,2020,74,3776.09
+1000280,Sara Nguyen,furniture,Mediterranean,2019,89,9172.22
+1000511,Wei Muller,toys,Black Sea,2019,30,839.33
+1000515,Diego Garcia,electronics,Aegean,2020,19,1002.92
+1001610,Lucas Tanaka,clothing,Central,2019,29,9223.82
+1000973,Zeynep Smith,automotive,Eastern,2016,88,6372.87
+1000543,Mia Andersen,electronics,Aegean,2024,41,9217.36
+1000139,Mia Lee,electronics,Black Sea,2016,41,2598.5
+1001559,Priya Sahin,toys,Southeastern,2021,65,7286.62
+1001696,Amina Johnson,clothing,Central,2018,12,1023.23
+1000809,Elif Celik,furniture,Black Sea,2022,32,7401.69
+1001507,Diego Yilmaz,automotive,Southeastern,2021,36,6359.47
+1001987,Elif Patel,furniture,Eastern,2019,79,7400.05
+1001440,Layla Garcia,clothing,Eastern,2018,32,4297.34
+1001526,Fatma Rossi,clothing,Black Sea,2017,41,9924.25
+1001219,Mia Garcia,clothing,Marmara,2019,63,8030.09
+1000727,Yuki Ozturk,sports,Aegean,2020,59,6005.08
+1000192,Noah Khan,books,Black Sea,2023,29,9458.67
+1000497,Elif Smith,electronics,Black Sea,2020,50,9209.32
+1001971,Amina Smith,automotive,Southeastern,2016,86,3524.97
+1001965,Nina Yilmaz,food,Eastern,2023,61,3614.06
+1000659,Noah Sahin,clothing,Mediterranean,2023,89,6404.45
+1000824,Elif Khan,food,Eastern,2017,3,6234.75
+1001454,Ayse Johnson,furniture,Mediterranean,2024,85,8430.17
+1000263,Amina Ozturk,automotive,Eastern,2022,81,1904.37
+1001129,Priya Andersen,sports,Southeastern,2021,46,4810.2
+1000595,Can Andersen,furniture,Central,2018,88,5392.35
+1000440,Noah Nguyen,clothing,Southeastern,2019,79,5942.08
+1000312,Mia Khan,electronics,Marmara,2015,18,7163.85
+1000143,Priya Patel,books,Marmara,2024,31,7126.14
+1001277,Priya Andersen,clothing,Eastern,2021,67,7400.63
+1000561,Sara Smith,sports,Mediterranean,2015,20,7546.38
+1000514,Omar Nguyen,sports,Southeastern,2016,12,1660.23
+1001548,Fatma Demir,food,Aegean,2019,83,5203.22
+1001269,Ivan Dubois,automotive,Eastern,2020,84,4104.2
+1000224,Emre Dubois,clothing,Southeastern,2016,23,9516.84
+1000814,Elif Ozturk,sports,Mediterranean,2016,51,7911.73
+1001742,Yuki Khan,toys,Southeastern,2019,91,4594.36
+1001503,Ayse Tanaka,food,Eastern,2017,8,1050.78
+1001992,Nina Celik,sports,Marmara,2024,23,4489.21
+1001998,Yuki Lee,clothing,Southeastern,2020,2,2253.29
+1001590,Can Sahin,sports,Aegean,2019,7,6459.25
+1001832,Can Patel,furniture,Eastern,2020,56,4827.69
+1000246,Omar Tanaka,food,Aegean,2018,78,1470.01
+1001461,Nina Silva,sports,Eastern,2021,22,1846.2
+1000057,Priya Sahin,electronics,Southeastern,2020,75,5569.45
+1001043,Layla Silva,clothing,Southeastern,2020,29,8874.56
+1000772,Priya Rossi,toys,Southeastern,2021,36,4561.77
+1001515,Priya Ozturk,electronics,Mediterranean,2022,41,1318.03
+1001204,Sara Dubois,sports,Mediterranean,2020,56,8936.56
+1000378,Nina Patel,automotive,Marmara,2022,98,8412.5
+1000795,Hassan Lee,furniture,Southeastern,2016,57,3147.59
+1000296,Carlos Demir,automotive,Eastern,2023,38,6454.24
+1000861,Ali Arslan,toys,Aegean,2016,15,7421.12
+1000780,Diego Dubois,furniture,Mediterranean,2024,84,6525.75
+1000700,Lucas Ozturk,electronics,Central,2018,29,7150.06
+1001519,Nina Garcia,automotive,Aegean,2024,63,6980.81
+1001217,Carlos Tanaka,books,Black Sea,2019,23,2476.55
+1000452,Can Nguyen,sports,Central,2016,57,8665.51
+1001493,Nina Celik,sports,Southeastern,2024,62,6347.03
+1000306,Omar Patel,automotive,Central,2023,2,8486.16
+1000413,Noah Johnson,furniture,Eastern,2022,77,6204.4
+1000536,Elif Muller,furniture,Southeastern,2017,44,7196.97
+1000158,Zeynep Smith,sports,Aegean,2016,56,9784.57
+1001242,Wei Lee,sports,Marmara,2022,52,4911.91
+1000338,Ivan Khan,automotive,Aegean,2023,60,2800.81
+1000456,Lena Garcia,sports,Mediterranean,2019,66,9855.35
+1001764,Hassan Johnson,toys,Black Sea,2015,46,3080.93
+1001319,Lena Arslan,automotive,Mediterranean,2020,3,9147.87
+1000933,Nina Celik,electronics,Central,2015,88,8495.58
+1001194,Ayse Demir,sports,Central,2018,80,4564.22
+1001788,Ayse Dubois,sports,Marmara,2021,17,4088.72
+1001118,Ivan Demir,books,Aegean,2023,91,4799.21
+1001037,Yuki Muller,food,Aegean,2020,30,7811.08
+1000602,Mia Khan,sports,Black Sea,2015,20,1459.78
+1001521,Ali Kaya,furniture,Aegean,2019,28,9577.53
+1001401,Layla Yilmaz,food,Mediterranean,2018,68,3355.7
+1001823,Hassan Smith,electronics,Mediterranean,2023,43,323.15
+1000693,Wei Rossi,furniture,Black Sea,2023,19,1693.29
+1001953,Fatma Celik,automotive,Central,2016,8,6286.61
+1000402,Layla Patel,furniture,Central,2023,49,4374.86
+1001750,Amina Tanaka,food,Aegean,2019,25,4086.25
+1000289,Ivan Andersen,clothing,Southeastern,2017,56,5077.85
+1000714,Amina Muller,books,Eastern,2023,82,8312.68
+1000102,Amina Smith,books,Eastern,2019,88,6043.47
+1001550,Lena Garcia,toys,Marmara,2015,45,8912.05
+1001622,Yuki Silva,furniture,Eastern,2016,31,3680.56
+1000092,Elif Tanaka,toys,Eastern,2021,93,1733.78
+1001761,Hassan Smith,automotive,Marmara,2015,3,5715.37
+1000260,Ivan Khan,electronics,Black Sea,2022,6,6392.51
+1001737,Lucas Nguyen,books,Mediterranean,2023,31,5820.48
+1001464,Fatma Johnson,food,Black Sea,2024,14,8695.92
+1000420,Emre Lee,electronics,Eastern,2022,91,2175.31
+1000831,Zeynep Demir,furniture,Eastern,2022,11,4733.32
+1001656,Omar Tanaka,food,Southeastern,2024,88,1376.81
+1001035,Carlos Nguyen,electronics,Marmara,2015,69,1841.11
+1000478,Ali Johnson,books,Aegean,2023,77,6039.48
+1000401,Lena Dubois,food,Southeastern,2020,4,6377.18
+1001690,Lucas Kaya,electronics,Marmara,2017,48,8422.78
+1001597,Amina Tanaka,clothing,Black Sea,2018,94,7289.51
+1000470,Fatma Patel,books,Aegean,2024,29,5241.98
+1001193,Carlos Arslan,sports,Eastern,2018,54,1885.48
+1000136,Emre Patel,automotive,Central,2017,75,4414.83
+1000803,Layla Johnson,automotive,Aegean,2020,3,1606.13
+1001864,Layla Andersen,toys,Marmara,2023,92,2356.5
+1000761,Fatma Andersen,sports,Aegean,2018,64,7396.67
+1000843,Ali Arslan,toys,Marmara,2019,71,5161.08
+1001463,Layla Andersen,furniture,Aegean,2018,8,7523.42
+1001353,Amina Arslan,books,Central,2018,86,4809.2
+1000712,Ali Yilmaz,sports,Central,2018,6,6718.33
+1001557,Lucas Muller,electronics,Aegean,2018,62,9600.06
+1000890,Carlos Andersen,electronics,Mediterranean,2016,58,4622.86
+1001300,Elif Muller,food,Aegean,2021,4,8609.66
+1000117,Nina Dubois,sports,Marmara,2018,38,2351.86
+1000276,Noah Tanaka,electronics,Mediterranean,2017,87,4553.78
+1000495,Hassan Andersen,clothing,Central,2017,33,7755.18
+1001145,Ali Garcia,books,Eastern,2016,40,1233.15
+1001133,Elif Ozturk,food,Mediterranean,2020,20,3096.95
+1001187,Yuki Smith,electronics,Marmara,2023,83,6158.22
+1000089,Can Arslan,food,Black Sea,2024,90,293.35
+1000689,Layla Tanaka,food,Southeastern,2015,61,1647.45
+1001780,Noah Smith,food,Black Sea,2021,13,8940.14
+1000680,Noah Khan,automotive,Black Sea,2015,38,8992.09
+1001019,Can Garcia,books,Black Sea,2024,22,8369.15
+1001870,Omar Dubois,electronics,Aegean,2020,6,2979.35
+1001843,Omar Smith,sports,Central,2023,65,1133.24
+1001146,Emre Demir,toys,Marmara,2022,85,8646.48
+1000603,Fatma Muller,food,Mediterranean,2022,19,3231.88
+1000723,Ayse Khan,electronics,Mediterranean,2017,8,1746.61
+1001182,Amina Ozturk,automotive,Southeastern,2017,1,4066.15
+1001284,Fatma Nguyen,automotive,Marmara,2017,72,3756.02
+1000653,Lucas Andersen,automotive,Mediterranean,2017,89,5827.11
+1000388,Ivan Silva,electronics,Marmara,2023,93,2819.66
+1001262,Nina Silva,furniture,Aegean,2021,53,9187.48
+1000181,Layla Rossi,food,Mediterranean,2017,54,6583.07
+1001897,Ivan Khan,clothing,Marmara,2024,6,9601.62
+1000184,Noah Lee,toys,Marmara,2021,36,1978.91
+1000801,Lucas Smith,sports,Central,2023,35,4187.34
+1000924,Nina Garcia,toys,Mediterranean,2023,3,2161.59
+1001117,Yuki Demir,furniture,Eastern,2018,37,1800.39
+1001046,Wei Silva,furniture,Aegean,2020,56,5836.14
+1001212,Diego Celik,toys,Marmara,2019,88,9814.23
+1000566,Emre Arslan,furniture,Aegean,2015,55,875.77
+1001047,Yuki Sahin,electronics,Black Sea,2015,6,9912.62
+1001718,Nina Rossi,food,Marmara,2016,24,8108.69
+1000013,Sara Lee,furniture,Eastern,2020,99,7781.62
+1001409,Nina Kaya,automotive,Marmara,2016,82,6974.71
+1001278,Murat Muller,furniture,Southeastern,2020,59,1069.98
+1001830,Yuki Dubois,electronics,Central,2016,54,6021.06
+1001098,Sara Ozturk,electronics,Aegean,2020,60,8794.46
+1001527,Lucas Tanaka,electronics,Mediterranean,2018,10,2773.97
+1000860,Noah Dubois,automotive,Mediterranean,2017,57,544.24
+1000962,Yuki Tanaka,toys,Eastern,2021,52,3877.11
+1001607,Layla Ozturk,sports,Central,2022,20,2513.46
+1000859,Fatma Muller,toys,Mediterranean,2015,99,3117.4
+1000294,Lena Andersen,electronics,Southeastern,2015,11,550.03
+1001602,Mia Celik,clothing,Eastern,2015,78,1087.23
+1000226,Diego Andersen,toys,Southeastern,2020,20,4453.21
+1000713,Nina Rossi,food,Black Sea,2022,6,495.02
+1000178,Hassan Demir,toys,Mediterranean,2018,83,725.79
+1001445,Omar Dubois,clothing,Mediterranean,2017,33,3866.08
+1001144,Noah Rossi,food,Central,2015,85,2517.62
+1000596,Hassan Rossi,sports,Southeastern,2017,85,8776.42
+1000310,Carlos Dubois,books,Aegean,2016,51,3794.29
+1000298,Priya Kaya,clothing,Black Sea,2021,62,4697.51
+1001804,Wei Nguyen,sports,Marmara,2017,46,5055.82
+1001264,Priya Khan,books,Marmara,2020,41,4075.94
+1001057,Carlos Kaya,toys,Central,2017,83,5631.47
+1000606,Emre Andersen,clothing,Black Sea,2016,17,6182.73
+1000295,Amina Andersen,sports,Eastern,2018,99,5763.59
+1001536,Wei Rossi,furniture,Eastern,2024,54,7096.48
+1001693,Can Andersen,food,Aegean,2021,94,1819.63
+1001168,Wei Khan,books,Mediterranean,2024,100,9321.47
+1001753,Yuki Johnson,furniture,Marmara,2023,13,2826.77
+1000479,Carlos Garcia,electronics,Southeastern,2019,27,5225.2
+1000839,Lena Lee,toys,Southeastern,2020,53,7664.66
+1000485,Amina Khan,food,Black Sea,2021,11,6440.68
+1001886,Priya Garcia,books,Central,2020,76,6126.09
+1000929,Emre Celik,toys,Southeastern,2015,100,2100.57
+1001116,Emre Khan,furniture,Mediterranean,2024,9,1081.05
+1000581,Fatma Arslan,electronics,Aegean,2015,59,600.49
+1000844,Yuki Andersen,clothing,Marmara,2015,59,3620.64
+1000788,Murat Celik,books,Black Sea,2023,7,360.99
+1001993,Priya Kaya,furniture,Eastern,2022,65,4151.18
+1001191,Layla Patel,books,Aegean,2018,25,9464.97
+1001260,Elif Smith,automotive,Central,2019,65,1795.32
+1001368,Sara Sahin,automotive,Aegean,2016,61,7930.08
+1000137,Hassan Yilmaz,automotive,Central,2021,43,3278.16
+1001123,Omar Nguyen,sports,Eastern,2022,29,5583.21
+1001568,Ayse Silva,electronics,Mediterranean,2018,12,8656.2
+1000609,Fatma Demir,electronics,Eastern,2018,29,6965.2
+1000645,Layla Muller,toys,Southeastern,2015,29,8457.9
+1000398,Yuki Sahin,food,Marmara,2019,21,5682.62
+1000896,Emre Nguyen,furniture,Black Sea,2016,33,3308.02
+1000507,Can Sahin,sports,Marmara,2015,30,8982.25
+1001302,Omar Sahin,clothing,Central,2016,20,3136.96
+1001420,Lena Arslan,books,Aegean,2016,86,1761.87
+1000052,Murat Sahin,sports,Marmara,2016,96,5576.36
+1000835,Ivan Tanaka,furniture,Aegean,2023,85,2562.51
+1000043,Hassan Khan,clothing,Marmara,2023,11,8527.44
+1000183,Layla Nguyen,furniture,Southeastern,2020,13,9810.2
+1000427,Nina Lee,furniture,Black Sea,2020,51,4683.86
+1001108,Layla Dubois,toys,Aegean,2019,4,7469.41
+1001991,Carlos Kaya,furniture,Southeastern,2020,98,5064.6
+1000169,Carlos Rossi,furniture,Eastern,2018,80,2580.95
+1000261,Noah Johnson,electronics,Central,2016,45,2486.91
+1000328,Omar Kaya,sports,Eastern,2016,45,9246.77
+1000503,Wei Dubois,furniture,Black Sea,2020,76,9720.42
+1001741,Fatma Nguyen,food,Aegean,2022,14,3470.12
+1000583,Murat Demir,furniture,Central,2022,77,4515.98
+1001857,Noah Johnson,sports,Southeastern,2024,2,1330.51
+1001869,Lena Dubois,toys,Central,2021,84,3809.31
+1001252,Nina Kaya,books,Central,2021,15,6213.26
+1000959,Noah Yilmaz,electronics,Mediterranean,2023,52,8490.76
+1001179,Zeynep Patel,automotive,Eastern,2021,43,7201.4
+1001184,Nina Sahin,food,Southeastern,2020,58,4835.34
+1000222,Lena Ozturk,books,Mediterranean,2016,68,5148.02
+1001912,Omar Smith,sports,Eastern,2022,63,7986.99
+1000254,Elif Johnson,furniture,Southeastern,2017,71,9407.3
+1001358,Mia Ozturk,electronics,Central,2015,10,3642.72
+1000549,Noah Lee,food,Marmara,2022,74,6543.95
+1001898,Ivan Lee,furniture,Marmara,2022,4,3758.08
+1001733,Fatma Rossi,electronics,Eastern,2015,34,8843.98
+1001106,Ivan Dubois,books,Black Sea,2022,10,1253.88
+1000557,Zeynep Garcia,automotive,Aegean,2016,4,2148.63
+1001558,Sara Celik,food,Black Sea,2023,64,8017.42
+1000444,Emre Lee,clothing,Black Sea,2019,18,1952.09
+1000268,Wei Nguyen,food,Central,2017,64,6950.79
+1001542,Diego Lee,books,Black Sea,2015,79,1982.63
+1001436,Ivan Kaya,furniture,Southeastern,2018,78,8738.91
+1000389,Omar Demir,food,Southeastern,2017,14,9187.77
+1000250,Ali Nguyen,toys,Marmara,2021,7,4024.5
+1000956,Zeynep Arslan,clothing,Mediterranean,2015,97,1552.43
+1000355,Yuki Yilmaz,electronics,Black Sea,2020,90,731.16
+1000730,Hassan Dubois,electronics,Southeastern,2023,65,7547.84
+1000918,Lena Rossi,furniture,Marmara,2018,89,2887.82
+1001509,Amina Khan,furniture,Marmara,2024,74,9873.77
+1000219,Omar Celik,food,Marmara,2020,22,8032.29
+1001848,Mia Garcia,books,Marmara,2019,79,3900.59
+1001070,Omar Ozturk,sports,Aegean,2022,48,9709.2
+1001207,Layla Silva,books,Black Sea,2015,57,3629.19
+1001817,Fatma Yilmaz,electronics,Eastern,2016,27,429.03
+1001224,Ayse Patel,books,Central,2022,56,883.83
+1000021,Sara Muller,books,Central,2021,21,4591.41
+1000140,Murat Tanaka,electronics,Eastern,2023,60,4190.74
+1000175,Ayse Smith,food,Southeastern,2023,47,993.91
+1001045,Nina Patel,furniture,Mediterranean,2022,60,2863.51
+1001080,Can Sahin,books,Central,2015,52,6212.85
+1000984,Mia Smith,automotive,Eastern,2017,27,5819.22
+1001574,Sara Patel,toys,Central,2019,15,1059.09
+1001952,Emre Sahin,automotive,Marmara,2015,40,7043.8
+1000313,Hassan Khan,automotive,Aegean,2024,66,1483.69
+1000695,Yuki Kaya,automotive,Eastern,2023,10,2977.17
+1000785,Omar Johnson,food,Central,2022,100,8640.92
+1001495,Lena Sahin,furniture,Southeastern,2018,90,7382.95
+1001896,Sara Dubois,books,Aegean,2019,19,1050.07
+1000153,Hassan Tanaka,food,Eastern,2017,64,9650.8
+1001676,Layla Sahin,automotive,Eastern,2024,13,461.17
+1000976,Omar Garcia,clothing,Marmara,2024,96,3110.0
+1000119,Can Lee,sports,Eastern,2017,82,8696.9
+1000242,Carlos Tanaka,clothing,Aegean,2017,89,7733.1
+1001095,Amina Smith,electronics,Marmara,2019,64,9942.9
+1001038,Lena Smith,books,Aegean,2021,26,3817.4
+1001514,Amina Celik,furniture,Eastern,2016,24,8632.97
+1000053,Sara Garcia,furniture,Eastern,2020,27,6905.53
+1000269,Noah Khan,sports,Southeastern,2016,94,4302.12
+1000905,Carlos Demir,furniture,Mediterranean,2019,80,6322.86
+1001637,Amina Tanaka,food,Aegean,2015,48,6501.16
+1001113,Murat Johnson,electronics,Marmara,2019,86,201.69
+1001318,Lena Johnson,automotive,Central,2018,85,9830.93
+1000006,Lena Celik,books,Black Sea,2016,46,8489.35
+1001418,Elif Kaya,food,Southeastern,2018,32,3808.61
+1001891,Yuki Johnson,books,Aegean,2019,64,3476.72
+1001148,Elif Muller,food,Mediterranean,2021,42,5767.56
+1000459,Ali Tanaka,automotive,Aegean,2024,81,2760.03
+1001608,Ivan Johnson,books,Marmara,2015,14,5491.41
+1001546,Can Silva,automotive,Black Sea,2017,48,9699.34
+1000106,Amina Johnson,automotive,Black Sea,2021,94,5964.91
+1001126,Layla Khan,books,Marmara,2017,51,4065.78
+1000345,Diego Celik,automotive,Central,2017,52,6891.44
+1000300,Noah Tanaka,clothing,Southeastern,2020,66,5659.79
+1001099,Ayse Rossi,clothing,Marmara,2019,47,4252.77
+1001343,Can Lee,electronics,Central,2021,52,1048.62
+1001334,Wei Smith,electronics,Central,2021,69,4543.28
+1001296,Carlos Lee,electronics,Mediterranean,2023,25,7529.78
+1001943,Hassan Lee,automotive,Central,2018,42,4667.12
+1001833,Ali Demir,electronics,Marmara,2018,69,6119.97
+1000142,Can Arslan,sports,Mediterranean,2017,37,4436.91
+1000649,Hassan Sahin,food,Marmara,2019,79,2039.43
+1000037,Ali Yilmaz,automotive,Southeastern,2023,13,600.77
+1001643,Elif Rossi,sports,Black Sea,2023,25,3212.96
+1001034,Can Kaya,toys,Central,2018,56,2588.43
+1001914,Murat Garcia,food,Black Sea,2020,32,6657.28
+1001638,Fatma Johnson,books,Marmara,2016,47,6070.98
+1001618,Lucas Johnson,clothing,Marmara,2020,17,1900.35
+1000868,Zeynep Tanaka,sports,Eastern,2020,14,288.86
+1001481,Priya Yilmaz,books,Black Sea,2015,21,9296.21
+1000586,Yuki Arslan,furniture,Eastern,2018,87,2146.43
+1001295,Yuki Garcia,books,Eastern,2023,11,2004.83
+1001139,Omar Tanaka,automotive,Southeastern,2016,73,6782.07
+1000627,Omar Rossi,toys,Black Sea,2016,13,8526.48
+1000755,Murat Khan,sports,Mediterranean,2024,33,6971.81
+1000642,Yuki Nguyen,books,Southeastern,2022,58,3228.69
+1000392,Ali Smith,sports,Eastern,2016,84,9916.59
+1001160,Ali Sahin,sports,Southeastern,2021,53,3254.35
+1000422,Ali Johnson,clothing,Eastern,2021,49,832.18
+1000247,Sara Kaya,automotive,Southeastern,2020,71,9348.57
+1001257,Emre Celik,furniture,Central,2017,94,2991.73
+1001714,Emre Arslan,automotive,Black Sea,2022,55,6003.07
+1001104,Elif Sahin,sports,Central,2022,53,3468.76
+1001470,Noah Muller,toys,Southeastern,2018,47,6683.61
+1000681,Fatma Muller,books,Marmara,2017,99,5425.41
+1001990,Mia Arslan,food,Southeastern,2023,86,6728.78
+1001012,Amina Nguyen,furniture,Aegean,2015,25,351.08
+1000305,Nina Nguyen,furniture,Aegean,2024,46,581.67
+1001881,Murat Yilmaz,food,Black Sea,2023,19,5801.94
+1000376,Hassan Smith,furniture,Black Sea,2018,71,3283.67
+1000473,Murat Celik,toys,Central,2019,18,3888.56
+1000107,Lena Smith,books,Central,2022,32,7528.96
+1000704,Ayse Lee,furniture,Central,2016,94,846.38
+1000343,Elif Johnson,food,Aegean,2022,97,2742.98
+1000285,Ayse Smith,automotive,Marmara,2020,71,5764.97
+1000955,Murat Dubois,food,Central,2022,83,6634.97
+1001078,Nina Muller,sports,Black Sea,2019,97,9807.85
+1001516,Ayse Andersen,furniture,Eastern,2017,12,5668.15
+1001002,Murat Sahin,food,Aegean,2024,83,1151.77
+1000154,Ayse Khan,toys,Southeastern,2016,57,1087.05
+1001719,Lucas Ozturk,toys,Aegean,2016,28,6603.19
+1001384,Mia Smith,furniture,Eastern,2018,61,2413.63
+1000942,Emre Dubois,automotive,Mediterranean,2020,40,3389.76
+1001015,Wei Kaya,food,Marmara,2018,84,6705.77
+1000240,Ali Sahin,clothing,Marmara,2019,13,5125.62
+1001119,Priya Andersen,clothing,Black Sea,2016,24,8363.11
+1001474,Hassan Khan,food,Eastern,2018,1,9862.21
+1000718,Layla Ozturk,furniture,Marmara,2023,83,2879.73
+1001365,Ayse Arslan,furniture,Mediterranean,2021,89,3804.75
+1001815,Mia Sahin,furniture,Aegean,2019,63,4430.96
+1001712,Mia Arslan,sports,Aegean,2018,88,8474.91
+1001835,Ayse Silva,food,Mediterranean,2017,15,4435.3
+1001826,Carlos Khan,sports,Black Sea,2024,8,5504.28
+1001641,Amina Kaya,furniture,Central,2016,73,5690.92
+1000531,Murat Smith,furniture,Central,2023,95,653.44
+1001110,Ayse Arslan,clothing,Marmara,2021,89,7653.17
+1001904,Diego Yilmaz,toys,Marmara,2021,13,9329.51
+1001077,Ayse Nguyen,toys,Aegean,2015,95,5506.3
+1001122,Noah Garcia,electronics,Marmara,2020,64,1245.54
+1001405,Mia Ozturk,books,Black Sea,2015,31,8865.98
+1001135,Layla Arslan,sports,Eastern,2022,63,5096.96
+1001787,Ayse Dubois,sports,Southeastern,2018,75,5170.34
+1001523,Carlos Silva,books,Mediterranean,2019,34,3879.26
+1001030,Amina Garcia,toys,Black Sea,2015,72,2432.59
+1001662,Emre Celik,food,Southeastern,2021,26,4074.65
+1001325,Wei Demir,sports,Eastern,2020,25,990.58
+1000914,Carlos Muller,sports,Mediterranean,2024,80,3602.79
+1000018,Ayse Khan,automotive,Marmara,2015,15,1612.98
+1001321,Ivan Patel,food,Mediterranean,2016,84,6546.89
+1000146,Omar Khan,sports,Black Sea,2022,61,2512.69
+1000200,Diego Johnson,toys,Aegean,2022,9,1003.03
+1001468,Can Celik,furniture,Mediterranean,2015,49,6068.95
+1000408,Elif Yilmaz,toys,Mediterranean,2016,77,6020.04
+1000773,Yuki Sahin,furniture,Southeastern,2016,93,2772.23
+1000893,Omar Nguyen,clothing,Black Sea,2019,79,9197.51
+1000750,Elif Ozturk,books,Central,2021,46,6728.98
+1001931,Murat Andersen,food,Aegean,2024,40,7868.46
+1000464,Omar Muller,clothing,Mediterranean,2022,44,8951.24
+1000315,Yuki Muller,automotive,Eastern,2024,39,4800.96
+1000356,Can Yilmaz,automotive,Marmara,2019,53,1881.64
+1001566,Carlos Ozturk,furniture,Southeastern,2024,81,6380.69
+1001842,Priya Rossi,furniture,Black Sea,2019,47,7823.28
+1001947,Hassan Sahin,food,Black Sea,2015,38,1263.96
+1000979,Zeynep Johnson,sports,Aegean,2024,36,2824.37
+1001923,Priya Muller,toys,Southeastern,2023,9,6583.17
+1000233,Layla Khan,clothing,Central,2020,37,3935.04
+1000097,Ivan Kaya,toys,Aegean,2016,100,9576.17
+1000130,Amina Andersen,furniture,Black Sea,2016,70,2325.39
+1001853,Can Celik,food,Eastern,2019,69,4688.21
+1001081,Ali Nguyen,toys,Marmara,2020,8,6120.09
+1000919,Zeynep Garcia,sports,Mediterranean,2023,42,7692.86
+1001928,Omar Demir,furniture,Eastern,2018,5,2797.06
+1000961,Noah Celik,sports,Southeastern,2015,31,4373.55
+1000688,Zeynep Rossi,books,Central,2019,78,956.32
+1000986,Mia Patel,sports,Black Sea,2023,30,3859.65
+1001292,Layla Nguyen,clothing,Southeastern,2020,12,8017.34
+1000737,Priya Muller,food,Central,2016,20,4317.68
+1001512,Priya Lee,clothing,Black Sea,2015,51,5604.44
+1001147,Yuki Khan,food,Central,2015,90,4749.56
+1001963,Emre Nguyen,automotive,Black Sea,2019,86,4769.25
+1000740,Ivan Patel,clothing,Central,2023,72,4888.74
+1001727,Omar Demir,electronics,Black Sea,2019,17,8431.42
+1001230,Lucas Garcia,toys,Mediterranean,2022,97,6734.9
+1000346,Priya Garcia,books,Eastern,2019,48,6184.18
+1001234,Priya Tanaka,automotive,Central,2024,79,3670.85
+1001210,Emre Khan,sports,Mediterranean,2024,28,5876.54
+1000121,Lena Ozturk,electronics,Central,2022,15,8238.12
+1001214,Zeynep Nguyen,automotive,Black Sea,2019,77,6613.6
+1001674,Diego Muller,electronics,Aegean,2022,19,5044.01
+1001431,Murat Garcia,furniture,Eastern,2021,97,2510.86
+1001997,Yuki Lee,books,Aegean,2018,41,5951.78
+1000928,Hassan Smith,toys,Black Sea,2019,28,5297.97
+1000856,Hassan Tanaka,furniture,Mediterranean,2024,95,5289.53
+1000416,Amina Dubois,clothing,Central,2020,78,9477.11
+1000193,Can Khan,sports,Black Sea,2015,8,9985.01
+1001623,Fatma Demir,toys,Mediterranean,2022,18,9216.03
+1001326,Carlos Garcia,furniture,Aegean,2022,47,464.24
+1000493,Sara Celik,electronics,Central,2021,35,5285.63
+1001537,Emre Nguyen,toys,Southeastern,2022,65,2939.23
+1000635,Zeynep Johnson,toys,Marmara,2023,99,7461.13
+1001838,Ivan Andersen,electronics,Southeastern,2015,93,2573.98
+1000166,Hassan Celik,furniture,Black Sea,2024,46,5790.06
+1000244,Layla Dubois,sports,Southeastern,2022,30,5386.18
+1000035,Can Celik,electronics,Black Sea,2020,14,2561.45
+1000993,Zeynep Demir,food,Marmara,2023,14,6885.76
+1001322,Ivan Demir,automotive,Eastern,2016,46,9722.21
+1000850,Carlos Demir,food,Marmara,2019,68,507.66
+1001181,Wei Lee,toys,Black Sea,2015,98,615.73
+1000903,Layla Patel,automotive,Mediterranean,2015,78,8837.88
+1000395,Lena Andersen,books,Mediterranean,2015,30,2192.82
+1001560,Wei Tanaka,clothing,Marmara,2016,3,1348.5
+1000594,Elif Patel,sports,Central,2021,52,3943.53
+1000149,Nina Johnson,electronics,Central,2019,76,5840.66
+1001893,Emre Sahin,electronics,Southeastern,2018,56,5238.92
+1001424,Lena Demir,food,Aegean,2022,29,753.5
+1000972,Nina Johnson,automotive,Mediterranean,2016,67,8909.27
+1001387,Ivan Demir,toys,Aegean,2024,17,3124.86
+1001771,Lucas Johnson,sports,Aegean,2015,75,5248.25
+1001946,Murat Kaya,food,Black Sea,2017,81,8050.42
+1001675,Lena Celik,food,Central,2023,93,136.4
+1001267,Diego Lee,sports,Eastern,2020,45,178.22
+1001916,Priya Sahin,automotive,Southeastern,2022,77,4178.42
+1000474,Ayse Sahin,books,Mediterranean,2024,2,6141.55
+1000337,Yuki Dubois,books,Central,2019,59,9891.1
+1001721,Priya Muller,furniture,Black Sea,2024,42,8996.67
+1001977,Yuki Dubois,sports,Marmara,2015,83,2821.74
+1000257,Hassan Dubois,electronics,Eastern,2023,74,2494.95
+1000232,Lena Yilmaz,clothing,Marmara,2018,91,4433.37
+1001435,Lucas Garcia,electronics,Aegean,2020,44,2498.02
+1000108,Yuki Dubois,food,Central,2015,64,8523.58
+1000887,Elif Johnson,food,Aegean,2018,97,2124.96
+1001745,Lucas Ozturk,sports,Southeastern,2024,83,1110.33
+1000098,Can Demir,furniture,Aegean,2015,80,1608.43
+1000085,Ali Johnson,automotive,Eastern,2018,36,4454.3
+1000830,Carlos Andersen,sports,Marmara,2020,29,6098.33
+1001759,Elif Patel,food,Central,2015,23,9745.3
+1001754,Carlos Tanaka,food,Black Sea,2016,29,7365.12
+1000528,Hassan Rossi,toys,Black Sea,2019,24,358.0
+1000225,Amina Patel,automotive,Southeastern,2024,98,5836.15
+1000129,Omar Nguyen,books,Eastern,2018,34,7898.71
+1000201,Zeynep Yilmaz,food,Marmara,2020,17,5607.51
+1000585,Priya Yilmaz,sports,Marmara,2021,7,1712.62
+1000505,Ivan Rossi,electronics,Central,2015,98,6606.65
+1001013,Yuki Smith,automotive,Black Sea,2016,70,6469.09
+1000099,Ayse Patel,books,Mediterranean,2018,60,7024.0
+1001246,Wei Arslan,automotive,Central,2022,30,5125.09
+1001456,Zeynep Khan,furniture,Black Sea,2017,55,2603.17
+1001917,Ali Demir,sports,Central,2023,28,8908.24
+1001697,Lucas Demir,clothing,Marmara,2024,91,5481.81
+1001792,Priya Kaya,furniture,Mediterranean,2017,72,7429.46
+1001320,Ayse Demir,automotive,Marmara,2015,87,1817.83
+1001434,Lena Sahin,sports,Central,2015,67,7937.83
+1000648,Omar Lee,toys,Eastern,2016,6,8978.19
+1001957,Fatma Yilmaz,clothing,Marmara,2018,36,1865.24
+1000001,Amina Celik,electronics,Eastern,2019,32,2309.56
+1001812,Wei Smith,books,Aegean,2021,97,9734.89
+1001593,Lucas Dubois,sports,Central,2015,81,8176.81
+1000779,Ivan Lee,sports,Central,2015,53,1300.13
+1000550,Diego Smith,clothing,Black Sea,2016,5,3019.3
+1000747,Emre Patel,automotive,Marmara,2018,85,9313.58
+1000476,Lucas Dubois,automotive,Southeastern,2018,12,8975.37
+1000488,Amina Yilmaz,sports,Eastern,2021,94,9537.98
+1001079,Yuki Sahin,automotive,Central,2016,94,4841.44
+1001332,Lucas Kaya,toys,Black Sea,2021,36,1304.88
+1001681,Ivan Silva,toys,Marmara,2017,59,4340.57
+1000879,Nina Sahin,food,Southeastern,2017,84,9336.06
+1000825,Noah Dubois,furniture,Central,2016,85,9673.95
+1000358,Diego Lee,clothing,Eastern,2020,16,1866.71
+1000016,Amina Nguyen,clothing,Central,2017,32,7474.65
+1001192,Sara Garcia,automotive,Black Sea,2017,56,8576.89
+1001564,Ali Johnson,books,Southeastern,2019,90,2548.56
+1000174,Hassan Garcia,toys,Southeastern,2016,60,9631.68
+1001285,Murat Dubois,food,Marmara,2016,48,5759.9
+1000613,Hassan Rossi,furniture,Aegean,2021,3,2361.11
+1001375,Noah Smith,electronics,Black Sea,2023,80,3429.77
+1000553,Priya Demir,food,Eastern,2017,78,8907.67
+1001976,Carlos Smith,toys,Central,2016,65,9222.56
+1000418,Priya Patel,furniture,Central,2021,36,8182.48
+1000148,Ayse Yilmaz,sports,Southeastern,2021,44,9348.12
+1001613,Zeynep Kaya,clothing,Aegean,2021,68,3414.62
+1001086,Omar Nguyen,books,Aegean,2022,95,9925.72
+1000671,Sara Sahin,clothing,Mediterranean,2019,1,3372.24
+1000340,Emre Demir,toys,Southeastern,2019,73,6775.9
+1001430,Nina Andersen,electronics,Aegean,2015,79,7612.76
+1001879,Lucas Smith,clothing,Mediterranean,2018,100,9100.82
+1000926,Lena Tanaka,clothing,Mediterranean,2024,50,1954.86
+1000637,Priya Dubois,books,Black Sea,2018,62,3522.57
+1001153,Zeynep Andersen,books,Mediterranean,2020,35,765.9
+1000898,Noah Yilmaz,food,Eastern,2023,79,9501.61
+1000641,Ivan Tanaka,food,Southeastern,2018,11,4644.58
+1000414,Layla Celik,clothing,Central,2015,51,3388.62
+1000314,Carlos Muller,clothing,Black Sea,2024,95,8440.92
+1000209,Fatma Tanaka,food,Black Sea,2020,21,3763.16
+1001107,Ayse Demir,automotive,Central,2019,89,3689.07
+1000031,Ali Yilmaz,electronics,Southeastern,2020,10,5189.63
+1000754,Emre Silva,books,Mediterranean,2016,65,3012.8
+1000113,Omar Andersen,toys,Black Sea,2023,68,3502.85
+1001803,Can Dubois,automotive,Marmara,2020,18,4731.81
+1001399,Omar Silva,automotive,Aegean,2024,74,9396.69
+1001386,Lena Arslan,food,Southeastern,2021,27,4442.5
+1001061,Layla Patel,books,Black Sea,2023,87,8270.43
+1001000,Mia Tanaka,toys,Marmara,2019,34,1861.32
+1000179,Layla Garcia,food,Marmara,2017,6,9467.04
+1000177,Wei Johnson,food,Southeastern,2020,14,6780.21
+1000430,Layla Arslan,automotive,Central,2022,13,4437.4
+1001565,Lucas Arslan,automotive,Eastern,2016,90,7330.79
+1001755,Priya Johnson,automotive,Aegean,2017,27,3541.22
+1001023,Emre Muller,books,Marmara,2019,19,7598.99
+1001532,Omar Lee,sports,Mediterranean,2016,7,1790.23
+1000836,Amina Ozturk,food,Eastern,2016,99,6421.74
+1001705,Amina Nguyen,clothing,Aegean,2019,2,9045.11
+1000882,Omar Nguyen,sports,Aegean,2018,14,1402.17
+1000611,Emre Yilmaz,electronics,Central,2019,59,7304.81
+1000063,Hassan Smith,furniture,Southeastern,2022,45,3121.08
+1001036,Elif Patel,books,Marmara,2018,93,4503.28
+1001008,Hassan Celik,toys,Central,2019,52,646.37
+1000912,Nina Arslan,furniture,Mediterranean,2015,14,5755.96
+1000160,Can Garcia,toys,Central,2021,19,2517.31
+1001225,Hassan Garcia,clothing,Aegean,2019,32,5278.09
+1000132,Carlos Andersen,sports,Black Sea,2016,60,6917.22
+1000010,Zeynep Smith,books,Black Sea,2019,59,6392.64
+1000880,Emre Muller,books,Mediterranean,2023,93,1271.92
+1000182,Hassan Dubois,food,Central,2015,89,3767.88
+1001288,Lucas Kaya,sports,Central,2018,24,8208.52
+1001308,Hassan Demir,food,Eastern,2018,3,2764.41
+1001352,Can Smith,electronics,Black Sea,2020,26,9766.48
+1000332,Lena Patel,books,Eastern,2017,1,9647.77
+1000663,Emre Garcia,sports,Aegean,2015,89,7864.35
+1000282,Priya Nguyen,books,Southeastern,2020,86,3539.16
+1000736,Elif Demir,books,Mediterranean,2015,49,6579.35
+1000483,Ivan Ozturk,automotive,Southeastern,2016,3,5914.31
+1001312,Ivan Nguyen,electronics,Marmara,2022,80,2963.28
+1001402,Yuki Patel,automotive,Black Sea,2024,6,7398.44
+1000853,Ali Silva,sports,Southeastern,2021,19,1408.54
+1000087,Zeynep Sahin,clothing,Aegean,2021,89,1612.62
+1000719,Ayse Ozturk,clothing,Central,2024,92,8187.04
+1000235,Ivan Tanaka,sports,Central,2024,20,3399.95
+1001196,Lena Tanaka,furniture,Eastern,2021,91,4290.16
+1001026,Zeynep Demir,electronics,Aegean,2016,91,6551.73
+1000445,Layla Dubois,electronics,Southeastern,2020,2,4897.14
+1001313,Emre Demir,electronics,Black Sea,2019,77,2583.55
+1000318,Can Andersen,automotive,Aegean,2023,81,7238.99
+1000934,Zeynep Muller,automotive,Marmara,2016,67,7684.42
+1000954,Ivan Celik,automotive,Aegean,2019,52,789.05
+1001630,Wei Khan,sports,Black Sea,2021,93,3439.3
+1001339,Lena Kaya,toys,Mediterranean,2018,10,7779.14
+1001581,Sara Lee,toys,Central,2022,81,7200.81
+1001575,Elif Lee,clothing,Central,2020,95,8118.54
+1000008,Mia Yilmaz,sports,Southeastern,2024,47,5815.21
+1000897,Amina Ozturk,books,Marmara,2016,91,4548.59
+1001404,Emre Silva,furniture,Aegean,2024,94,4377.13
+1001172,Yuki Kaya,automotive,Mediterranean,2020,90,9491.29
+1000521,Fatma Nguyen,clothing,Marmara,2020,16,522.65
+1000916,Carlos Smith,sports,Aegean,2015,16,337.45
+1000490,Carlos Kaya,sports,Eastern,2017,16,225.37
+1001723,Murat Lee,sports,Eastern,2024,86,840.68
+1000520,Amina Yilmaz,sports,Southeastern,2016,3,9970.9
+1000093,Layla Sahin,electronics,Black Sea,2024,73,6663.03
+1000216,Emre Sahin,food,Mediterranean,2018,65,5630.8
+1000865,Hassan Dubois,clothing,Eastern,2015,49,5871.17
+1001149,Hassan Celik,furniture,Central,2022,65,8132.61
+1001245,Carlos Rossi,automotive,Eastern,2021,3,1697.04
+1001092,Can Garcia,sports,Black Sea,2023,95,4687.71
+1000620,Murat Khan,books,Central,2016,14,5027.12
+1000501,Zeynep Nguyen,sports,Southeastern,2019,42,955.13
+1000124,Carlos Dubois,furniture,Southeastern,2023,49,4559.64
+1001907,Ali Arslan,sports,Black Sea,2017,63,8156.49
+1000167,Priya Garcia,electronics,Southeastern,2021,36,180.16
+1001460,Emre Patel,electronics,Marmara,2016,100,6992.84
+1001544,Wei Khan,electronics,Mediterranean,2022,22,6777.09
+1001746,Layla Celik,books,Aegean,2015,59,1951.41
+1001421,Emre Kaya,food,Mediterranean,2016,42,3294.21
+1000519,Ali Sahin,furniture,Southeastern,2021,48,6893.54
+1000180,Omar Patel,books,Marmara,2018,69,1442.94
+1000096,Mia Johnson,food,Central,2016,61,291.88
+1000128,Layla Dubois,automotive,Central,2015,30,2951.95
+1001769,Mia Celik,sports,Eastern,2023,58,9873.6
+1001782,Lena Andersen,clothing,Eastern,2018,33,1443.2
+1001075,Priya Kaya,toys,Central,2017,48,4539.0
+1000920,Murat Muller,toys,Black Sea,2024,79,9604.16
+1001736,Murat Sahin,toys,Southeastern,2017,97,5882.31
+1000450,Sara Lee,toys,Mediterranean,2015,98,7217.19
+1000458,Amina Sahin,clothing,Aegean,2017,92,3288.44
+1000051,Amina Khan,electronics,Eastern,2023,39,9323.45
+1001360,Noah Kaya,electronics,Aegean,2018,37,1823.88
+1001309,Yuki Celik,furniture,Southeastern,2023,84,7872.84
+1000842,Can Garcia,electronics,Mediterranean,2017,39,165.02
+1000762,Ali Smith,sports,Aegean,2018,26,8365.08
+1001752,Amina Smith,books,Aegean,2016,7,8960.18
+1000802,Zeynep Ozturk,clothing,Central,2016,82,4607.44
+1000991,Mia Nguyen,furniture,Eastern,2024,99,2029.57
+1000127,Emre Smith,clothing,Mediterranean,2016,21,126.49
+1001021,Fatma Silva,toys,Southeastern,2021,42,1295.82
+1000141,Fatma Khan,toys,Mediterranean,2022,81,4475.76
+1000028,Fatma Garcia,food,Eastern,2020,57,9005.28
+1000813,Noah Kaya,furniture,Marmara,2018,82,4397.77
+1001083,Ivan Nguyen,books,Mediterranean,2021,25,4955.12
+1001137,Murat Tanaka,automotive,Central,2021,57,4650.14
+1000278,Noah Tanaka,toys,Eastern,2019,32,9608.19
+1000435,Lucas Tanaka,electronics,Eastern,2024,26,4550.34
+1000168,Diego Kaya,automotive,Southeastern,2019,100,8007.92
+1001477,Hassan Celik,food,Central,2024,25,7147.51
+1000207,Priya Garcia,toys,Central,2015,24,8710.77
+1000214,Carlos Kaya,electronics,Aegean,2019,28,7695.99
+1001115,Elif Yilmaz,clothing,Southeastern,2019,75,3543.23
+1000236,Yuki Sahin,toys,Central,2021,17,5990.31
+1000323,Emre Nguyen,toys,Mediterranean,2020,87,7741.93
+1001888,Amina Nguyen,food,Central,2022,90,1432.46
+1000071,Carlos Muller,books,Eastern,2019,65,3161.61
+1000357,Ayse Silva,toys,Black Sea,2022,49,3818.52
+1000554,Emre Kaya,books,Central,2018,25,4151.46
+1001154,Nina Patel,food,Aegean,2020,10,6549.56
+1000041,Ivan Patel,clothing,Aegean,2019,28,9689.25
+1000617,Can Celik,food,Black Sea,2021,16,5517.55
+1001511,Amina Silva,sports,Mediterranean,2017,13,3319.44
+1000027,Nina Dubois,food,Aegean,2023,97,7325.59
+1001276,Ali Andersen,furniture,Central,2019,37,6701.86
+1001829,Wei Muller,electronics,Aegean,2022,10,8075.25
+1001801,Mia Tanaka,books,Black Sea,2021,55,1566.7
+1000212,Lucas Johnson,furniture,Southeastern,2023,15,3516.87
+1001271,Wei Sahin,sports,Aegean,2016,66,5562.13
+1001640,Fatma Dubois,electronics,Southeastern,2019,25,5561.19
+1001088,Ayse Andersen,books,Aegean,2018,39,4798.2
+1001577,Zeynep Celik,clothing,Eastern,2024,16,506.24
+1001498,Wei Garcia,sports,Eastern,2018,90,8576.04
+1000733,Ali Patel,food,Central,2024,95,9086.9
+1001547,Lena Smith,books,Central,2019,62,3005.8
+1000949,Mia Celik,toys,Mediterranean,2016,39,5373.65
+1001632,Can Dubois,clothing,Mediterranean,2017,2,4023.87
+1001894,Yuki Dubois,toys,Marmara,2020,37,1739.2
+1000682,Elif Yilmaz,furniture,Eastern,2018,88,4299.25
+1001768,Lucas Rossi,furniture,Eastern,2016,25,9213.49
+1001222,Zeynep Silva,toys,Mediterranean,2017,56,6343.16
+1000546,Wei Muller,automotive,Marmara,2019,27,2570.21
+1001639,Lena Demir,furniture,Central,2017,70,1153.89
+1001235,Diego Tanaka,sports,Marmara,2017,18,237.36
+1001648,Nina Khan,toys,Black Sea,2017,44,2979.04
+1001328,Sara Andersen,automotive,Aegean,2023,25,6631.74
+1001772,Lena Dubois,books,Black Sea,2022,73,9683.75
+1000917,Amina Celik,furniture,Southeastern,2024,54,4198.59
+1000966,Ayse Yilmaz,clothing,Eastern,2021,59,8945.57
+1001087,Layla Garcia,clothing,Southeastern,2021,94,8973.75
+1001345,Carlos Dubois,books,Central,2015,59,5219.89
+1000231,Carlos Patel,clothing,Marmara,2022,14,8127.76
+1000009,Priya Yilmaz,electronics,Eastern,2018,99,2964.65
+1001417,Layla Kaya,books,Black Sea,2019,57,618.86
+1001807,Ayse Johnson,sports,Black Sea,2016,83,4888.59
+1000639,Amina Ozturk,automotive,Southeastern,2022,22,841.09
+1001388,Wei Demir,automotive,Southeastern,2020,44,2332.13
+1001671,Lucas Patel,automotive,Mediterranean,2017,90,4423.72
+1000886,Hassan Patel,clothing,Aegean,2018,29,419.04
+1000412,Emre Silva,sports,Black Sea,2019,62,7847.62
+1000022,Wei Johnson,clothing,Mediterranean,2016,81,3054.3
+1000443,Lucas Ozturk,automotive,Eastern,2023,89,9198.77
+1000840,Lucas Muller,furniture,Mediterranean,2023,28,3812.75
+1000758,Amina Smith,furniture,Southeastern,2020,53,9557.96
+1001479,Diego Lee,automotive,Aegean,2022,15,4872.99
+1001020,Zeynep Celik,books,Black Sea,2024,79,2283.45
+1000541,Ivan Dubois,toys,Aegean,2024,23,3845.62
+1000465,Can Kaya,books,Eastern,2022,3,1329.82
+1000348,Noah Silva,automotive,Southeastern,2023,86,8272.65
+1001875,Carlos Patel,automotive,Central,2019,25,8375.65
+1001152,Can Garcia,food,Southeastern,2018,80,7453.85
+1001465,Emre Yilmaz,sports,Marmara,2021,16,2839.67
+1001854,Yuki Andersen,sports,Aegean,2021,60,7481.03
+1001820,Fatma Andersen,automotive,Mediterranean,2020,46,6222.32
+1001064,Zeynep Celik,clothing,Central,2016,90,1564.6
+1001350,Noah Garcia,clothing,Aegean,2022,40,6072.36
+1000937,Layla Celik,sports,Aegean,2017,36,1233.04
+1001989,Priya Khan,toys,Mediterranean,2019,2,9410.46
+1000477,Ayse Celik,food,Central,2021,41,7930.87
+1001370,Nina Rossi,automotive,Mediterranean,2022,23,3285.73
+1001041,Wei Arslan,toys,Central,2018,43,1359.27
+1000442,Noah Sahin,food,Black Sea,2024,18,5790.01
+1001944,Hassan Khan,books,Marmara,2021,90,867.22
+1001381,Diego Johnson,furniture,Eastern,2024,18,9983.21
+1001603,Mia Demir,books,Southeastern,2015,98,8321.29
+1000770,Carlos Johnson,clothing,Mediterranean,2019,31,2766.87
+1000196,Yuki Lee,toys,Black Sea,2024,68,3019.19
+1001628,Carlos Ozturk,electronics,Aegean,2020,19,881.95
+1001243,Yuki Dubois,automotive,Aegean,2015,68,288.28
+1001451,Sara Rossi,automotive,Eastern,2020,90,671.22
+1001310,Omar Andersen,food,Black Sea,2016,82,5053.78
+1000090,Yuki Tanaka,automotive,Marmara,2020,39,7558.65
+1000867,Priya Dubois,sports,Marmara,2022,84,9456.3
+1000526,Sara Tanaka,clothing,Black Sea,2018,83,8857.18
+1001190,Noah Ozturk,books,Marmara,2023,56,7755.48
+1001173,Lena Lee,food,Black Sea,2018,36,8805.51
+1001159,Lucas Andersen,electronics,Mediterranean,2018,47,4678.16
+1000116,Priya Ozturk,furniture,Aegean,2022,36,7272.67
+1001633,Lucas Nguyen,sports,Mediterranean,2023,40,7121.88
+1001531,Omar Andersen,automotive,Marmara,2023,45,7033.81
+1000095,Mia Muller,furniture,Black Sea,2020,44,7635.41
+1000579,Lucas Patel,toys,Southeastern,2015,66,7934.96
+1000078,Ayse Demir,electronics,Aegean,2022,79,8511.55
+1000753,Sara Smith,furniture,Black Sea,2021,74,146.04
+1000069,Priya Silva,electronics,Mediterranean,2023,88,7221.64
+1000650,Murat Tanaka,furniture,Black Sea,2018,92,3445.2
+1001393,Amina Garcia,books,Aegean,2016,87,5573.22
+1000589,Omar Johnson,food,Black Sea,2020,59,2594.54
+1001825,Emre Garcia,books,Mediterranean,2024,31,8545.78
+1000504,Fatma Lee,furniture,Aegean,2015,53,336.69
+1001707,Carlos Dubois,electronics,Aegean,2023,95,2619.31
+1000810,Can Arslan,automotive,Eastern,2016,67,6692.81
+1001093,Elif Demir,clothing,Central,2019,82,8358.17
+1000904,Ali Arslan,automotive,Black Sea,2021,57,886.03
+1001626,Murat Sahin,food,Eastern,2015,90,9651.68
+1000033,Yuki Andersen,automotive,Aegean,2022,53,1984.87
+1001425,Sara Dubois,toys,Marmara,2016,28,4169.45
+1001767,Noah Patel,electronics,Aegean,2024,95,6987.78
+1001902,Murat Rossi,books,Eastern,2018,94,835.99
+1000383,Hassan Nguyen,clothing,Eastern,2020,22,1485.45
+1001033,Murat Sahin,automotive,Black Sea,2017,21,6733.74
+1000062,Ali Johnson,clothing,Southeastern,2016,49,8733.58
+1001487,Fatma Celik,toys,Aegean,2020,49,5810.9
+1000852,Can Tanaka,automotive,Southeastern,2024,74,5096.32
+1000050,Noah Garcia,clothing,Black Sea,2023,91,3094.62
+1001874,Ali Andersen,food,Mediterranean,2016,68,8001.44
+1001684,Murat Yilmaz,electronics,Mediterranean,2021,14,5013.91
+1001467,Elif Kaya,sports,Southeastern,2015,86,5865.63
+1000406,Omar Nguyen,toys,Southeastern,2019,14,1411.69
+1000438,Fatma Nguyen,books,Central,2022,68,9661.61
+1000421,Omar Yilmaz,food,Eastern,2022,18,6369.39
+1000658,Ivan Arslan,furniture,Aegean,2024,92,2976.45
+1001298,Sara Arslan,furniture,Southeastern,2024,57,937.93
+1001950,Carlos Johnson,automotive,Black Sea,2018,43,9277.16
+1001685,Carlos Lee,books,Eastern,2022,65,5853.63
+1000930,Zeynep Nguyen,electronics,Southeastern,2022,65,1625.22
+1001561,Noah Khan,electronics,Southeastern,2018,7,6814.59
+1000262,Diego Celik,toys,Aegean,2015,46,5504.99
+1001601,Zeynep Sahin,books,Black Sea,2018,59,9099.49
+1001415,Mia Ozturk,books,Eastern,2015,87,2804.92
+1000694,Ali Dubois,sports,Aegean,2016,24,6742.01
+1000204,Yuki Khan,furniture,Aegean,2022,29,8487.17
+1001444,Ayse Patel,electronics,Southeastern,2021,55,8554.16
+1000371,Ayse Tanaka,furniture,Central,2018,43,6501.74
+1001735,Carlos Tanaka,sports,Eastern,2017,18,5875.6
+1000234,Lena Dubois,electronics,Southeastern,2020,9,3363.61
+1001859,Layla Demir,automotive,Marmara,2020,62,6413.02
+1000329,Amina Johnson,automotive,Aegean,2018,69,2783.94
+1000189,Emre Celik,electronics,Aegean,2015,46,7920.06
+1000220,Carlos Nguyen,toys,Marmara,2021,14,2508.59
+1001136,Ivan Muller,electronics,Southeastern,2015,56,8812.36
+1000766,Nina Johnson,food,Aegean,2024,17,636.01
+1000457,Diego Celik,clothing,Southeastern,2021,8,9924.62
+1000792,Noah Muller,automotive,Black Sea,2023,35,5530.05
+1000927,Murat Garcia,toys,Eastern,2015,35,4196.89
+1000370,Ayse Nguyen,electronics,Mediterranean,2021,54,5616.58
+1000874,Mia Demir,sports,Aegean,2017,44,8981.14
+1001311,Ayse Rossi,clothing,Southeastern,2018,69,9529.91
+1001455,Elif Celik,books,Eastern,2021,51,7089.38
+1000729,Nina Khan,food,Southeastern,2017,78,1053.26
+1000717,Noah Patel,automotive,Mediterranean,2015,65,8831.26
+1000805,Layla Demir,furniture,Marmara,2017,2,4985.94
+1001728,Mia Kaya,electronics,Central,2015,9,4751.47
+1001910,Fatma Ozturk,electronics,Black Sea,2019,79,3864.49
+1000789,Mia Khan,books,Marmara,2019,80,1637.06
+1000791,Amina Sahin,clothing,Mediterranean,2017,4,448.0
+1001970,Amina Kaya,toys,Aegean,2022,4,8673.9
+1000023,Amina Khan,furniture,Aegean,2020,98,1699.17
+1000707,Ivan Patel,clothing,Central,2021,29,8924.34
+1001286,Can Khan,clothing,Marmara,2020,40,9910.11
+1001416,Layla Rossi,clothing,Aegean,2015,87,5369.23
+1000544,Carlos Smith,books,Black Sea,2017,43,7478.15
+1000571,Yuki Celik,books,Mediterranean,2016,37,8687.14
+1001834,Mia Demir,automotive,Marmara,2021,99,3834.18
+1000677,Carlos Khan,automotive,Mediterranean,2015,15,6721.82
+1000782,Layla Yilmaz,food,Mediterranean,2019,60,6353.32
+1000560,Mia Rossi,clothing,Black Sea,2015,34,4452.99
+1001394,Can Dubois,automotive,Marmara,2017,26,787.89
+1001903,Emre Khan,toys,Central,2022,81,7380.93
+1000252,Murat Muller,clothing,Aegean,2015,37,9181.3
+1000982,Ali Patel,clothing,Southeastern,2023,5,3493.85
+1001731,Hassan Celik,toys,Mediterranean,2016,4,2317.52
+1000576,Omar Garcia,sports,Southeastern,2022,90,6879.35
+1001132,Ayse Demir,books,Eastern,2015,9,5031.04
+1001996,Wei Johnson,automotive,Marmara,2020,15,9187.39
+1000307,Lucas Sahin,sports,Eastern,2020,98,4091.81
+1001942,Lucas Demir,sports,Eastern,2018,97,5667.29
+1000155,Layla Demir,clothing,Black Sea,2017,10,4747.49
+1001534,Mia Patel,clothing,Central,2015,88,5183.78
+1000156,Sara Muller,food,Eastern,2016,43,8537.33
+1000845,Ayse Johnson,toys,Mediterranean,2018,30,2636.56
+1001333,Nina Nguyen,automotive,Central,2023,98,530.26
+1001281,Mia Andersen,food,Southeastern,2019,75,5037.89
+1001775,Hassan Garcia,books,Southeastern,2019,2,4592.74
+1000333,Emre Silva,automotive,Black Sea,2018,97,9641.79
+1001962,Amina Celik,toys,Marmara,2019,7,1455.91
+1000768,Emre Nguyen,books,Eastern,2023,59,3224.63
+1001174,Ayse Rossi,automotive,Eastern,2020,40,308.61
+1001178,Emre Nguyen,toys,Southeastern,2021,5,2812.69
+1001808,Hassan Dubois,clothing,Mediterranean,2023,100,6622.5
+1001762,Omar Smith,clothing,Southeastern,2017,100,1029.62
+1000292,Amina Lee,sports,Aegean,2019,79,5380.9
+1000946,Noah Tanaka,clothing,Eastern,2020,42,4587.05
+1000449,Layla Andersen,automotive,Mediterranean,2023,15,5769.3
+1001814,Noah Dubois,electronics,Aegean,2020,14,7016.69
+1001937,Ali Nguyen,toys,Black Sea,2024,14,6463.26
+1001734,Can Celik,electronics,Central,2016,34,3360.03
+1000351,Ivan Sahin,clothing,Central,2023,57,1250.66
+1001410,Wei Nguyen,food,Central,2021,25,4026.68
+1001351,Omar Rossi,electronics,Mediterranean,2024,85,6814.5
+1000104,Zeynep Khan,toys,Marmara,2021,63,1144.73
+1001448,Nina Rossi,automotive,Black Sea,2021,51,9706.91
+1001798,Diego Nguyen,books,Black Sea,2017,82,314.39
+1001336,Wei Smith,food,Marmara,2018,26,1728.2
+1001056,Wei Kaya,toys,Marmara,2016,50,3718.98
+1001114,Murat Celik,furniture,Mediterranean,2018,24,6738.28
+1000256,Can Smith,food,Eastern,2024,59,721.73
+1001892,Yuki Khan,food,Central,2020,50,3253.61
+1000724,Emre Khan,food,Mediterranean,2024,82,284.32
+1000931,Lena Patel,sports,Southeastern,2020,19,7717.1
+1000983,Zeynep Sahin,clothing,Southeastern,2022,97,9935.5
+1001258,Layla Khan,automotive,Eastern,2016,20,6505.57
+1000400,Nina Rossi,electronics,Marmara,2021,30,8402.04
+1001272,Nina Muller,clothing,Marmara,2015,70,5965.19
+1000800,Ali Ozturk,food,Southeastern,2021,29,2703.24
+1001438,Zeynep Arslan,electronics,Eastern,2017,27,1342.93
+1001664,Hassan Celik,sports,Black Sea,2015,70,1641.68
+1000995,Zeynep Kaya,furniture,Mediterranean,2016,91,9581.22
+1001176,Omar Rossi,books,Mediterranean,2018,57,3945.47
+1001748,Zeynep Rossi,food,Aegean,2017,51,5071.18
+1000608,Ivan Arslan,toys,Marmara,2020,97,8348.13
+1000739,Carlos Johnson,food,Southeastern,2018,53,5565.29
+1001790,Amina Celik,toys,Mediterranean,2016,38,5697.32
+1000492,Wei Johnson,clothing,Central,2017,96,7832.35
+1000741,Omar Andersen,toys,Southeastern,2021,95,1466.74
+1001927,Nina Celik,food,Southeastern,2022,6,1653.6
+1001366,Carlos Silva,furniture,Marmara,2024,76,1971.92
+1001634,Lucas Ozturk,sports,Marmara,2023,49,9780.49
+1000077,Lena Yilmaz,furniture,Eastern,2019,29,8084.17
+1001999,Emre Nguyen,automotive,Marmara,2023,93,9437.11
+1000281,Hassan Arslan,books,Aegean,2016,58,1809.13
+1000877,Omar Dubois,toys,Black Sea,2023,17,2146.69
+1000451,Ivan Arslan,food,Marmara,2018,39,8759.74
+1001887,Murat Kaya,books,Eastern,2020,58,9114.76
+1001103,Priya Rossi,books,Mediterranean,2024,46,8249.99
+1001941,Wei Muller,clothing,Marmara,2020,89,5696.03
+1001984,Ayse Khan,clothing,Marmara,2018,54,8356.4
+1000668,Layla Smith,toys,Southeastern,2024,70,7409.92
+1000784,Zeynep Yilmaz,clothing,Central,2018,41,3236.78
+1000876,Carlos Smith,food,Aegean,2024,20,4321.58
+1000660,Priya Celik,toys,Mediterranean,2022,75,5748.75
+1001490,Yuki Smith,books,Black Sea,2015,69,8537.53
+1001868,Diego Silva,books,Eastern,2021,37,1516.34
+1001240,Fatma Garcia,food,Marmara,2020,2,1116.27
+1001357,Carlos Arslan,furniture,Black Sea,2020,95,3821.15
+1000428,Diego Andersen,clothing,Central,2015,62,1134.93
+1001185,Wei Sahin,sports,Aegean,2024,42,8014.53
+1000040,Mia Johnson,automotive,Central,2021,90,9576.49
+1000562,Diego Celik,books,Eastern,2020,70,4198.05
+1000936,Lena Arslan,furniture,Central,2019,69,3259.26
+1001256,Murat Dubois,books,Southeastern,2023,6,5121.82
+1001051,Zeynep Demir,automotive,Eastern,2019,21,7062.01
+1001363,Amina Celik,toys,Aegean,2019,59,2477.24
+1000114,Wei Lee,toys,Central,2022,35,3135.26
+1001948,Omar Johnson,toys,Mediterranean,2020,73,6536.53
+1000012,Diego Yilmaz,clothing,Mediterranean,2018,21,4675.91
+1001570,Hassan Kaya,food,Eastern,2015,39,1189.43
+1000806,Lena Silva,sports,Southeastern,2022,48,4690.01
+1001625,Ivan Silva,furniture,Aegean,2018,8,7494.51
+1000631,Priya Patel,food,Eastern,2017,15,1411.73
+1000922,Hassan Kaya,clothing,Black Sea,2017,81,4659.66
+1001452,Mia Silva,furniture,Aegean,2022,5,9221.62
+1000725,Wei Garcia,books,Aegean,2022,78,9927.49
+1000684,Elif Nguyen,toys,Marmara,2016,10,637.2
+1001890,Diego Nguyen,food,Central,2022,23,5135.3
+1001592,Noah Muller,books,Eastern,2023,34,7247.87
+1001250,Hassan Celik,food,Black Sea,2019,31,2173.18
+1000622,Lucas Garcia,clothing,Marmara,2023,64,9111.62
+1001208,Priya Lee,automotive,Black Sea,2022,15,8472.95
+1000539,Mia Andersen,books,Central,2019,42,1450.74
+1000469,Omar Smith,food,Eastern,2016,91,1042.22
+1001851,Noah Demir,toys,Southeastern,2019,97,5949.9
+1000854,Zeynep Patel,electronics,Mediterranean,2021,34,942.2
+1000971,Noah Celik,automotive,Eastern,2016,19,7328.11
+1001058,Zeynep Lee,furniture,Aegean,2020,31,5441.84
+1000667,Diego Muller,electronics,Marmara,2019,26,6242.94
+1001392,Mia Arslan,automotive,Marmara,2020,73,9622.23
+1000324,Wei Johnson,automotive,Aegean,2018,36,5624.5
+1000352,Fatma Andersen,automotive,Marmara,2023,58,8105.24
+1001665,Hassan Sahin,furniture,Central,2024,5,9878.34
+1000394,Can Demir,clothing,Marmara,2022,56,6483.94
+1000321,Lucas Khan,automotive,Southeastern,2015,91,1466.88
+1000664,Fatma Lee,electronics,Central,2022,14,6198.86
+1001525,Priya Sahin,furniture,Marmara,2019,82,6997.65
+1001275,Murat Nguyen,sports,Mediterranean,2015,59,3455.57
+1001128,Carlos Tanaka,books,Aegean,2021,93,5040.69
+1000211,Can Yilmaz,sports,Black Sea,2021,63,6109.45
+1001355,Carlos Garcia,food,Central,2017,14,4597.14
+1000656,Lena Garcia,automotive,Southeastern,2017,18,4185.77
+1000626,Omar Johnson,automotive,Marmara,2016,23,8753.12
+1001528,Ivan Celik,food,Marmara,2020,82,980.76
+1001811,Murat Patel,automotive,Central,2018,99,8103.89
+1000437,Priya Yilmaz,books,Southeastern,2023,24,3720.99
+1000475,Emre Nguyen,toys,Eastern,2018,81,7507.11
+1000223,Noah Rossi,clothing,Aegean,2016,19,2633.83
+1000397,Sara Lee,electronics,Aegean,2020,3,9617.58
+1001955,Elif Arslan,sports,Central,2021,75,7319.57
+1001201,Emre Khan,automotive,Central,2022,17,987.43
+1000908,Emre Ozturk,sports,Mediterranean,2024,74,7893.56
+1001595,Yuki Celik,food,Eastern,2019,81,6378.99
+1000624,Murat Andersen,automotive,Aegean,2016,100,5165.37
+1000885,Ayse Khan,automotive,Eastern,2020,24,8535.23
+1000135,Zeynep Smith,electronics,Southeastern,2019,74,498.25
+1001617,Lena Sahin,food,Black Sea,2022,9,1220.21
+1001960,Fatma Ozturk,electronics,Southeastern,2018,28,1004.16
+1001016,Layla Lee,clothing,Eastern,2024,30,9254.75
+1000964,Noah Silva,clothing,Central,2017,18,214.86
+1001044,Carlos Ozturk,clothing,Mediterranean,2023,30,956.01
+1001141,Mia Johnson,automotive,Mediterranean,2021,79,6796.55
+1000014,Ali Kaya,toys,Black Sea,2019,9,2188.52
+1000999,Lena Johnson,clothing,Southeastern,2016,36,7792.57
+1000374,Yuki Lee,furniture,Black Sea,2018,43,3101.26
+1001125,Noah Ozturk,electronics,Eastern,2022,87,1141.1
+1001906,Amina Kaya,electronics,Aegean,2017,76,3824.09
+1000633,Yuki Nguyen,clothing,Mediterranean,2021,100,3649.77
+1001367,Ivan Garcia,clothing,Central,2018,7,6331.02
+1001824,Omar Johnson,food,Eastern,2020,9,8736.31
+1000699,Priya Andersen,clothing,Mediterranean,2024,47,8095.42
+1001599,Emre Arslan,automotive,Eastern,2017,83,2891.96
+1001090,Amina Johnson,food,Aegean,2023,60,7130.74
+1001274,Noah Johnson,toys,Marmara,2015,97,6543.88
+1000614,Wei Sahin,furniture,Eastern,2015,76,5095.37
+1001908,Wei Patel,sports,Aegean,2018,82,8770.18
+1001054,Amina Demir,books,Black Sea,2020,68,423.84
+1000990,Sara Muller,sports,Central,2016,33,6577.34
+1001689,Sara Johnson,sports,Southeastern,2021,87,2491.15
+1001488,Elif Garcia,electronics,Mediterranean,2023,25,8485.63
+1000362,Lucas Dubois,electronics,Aegean,2018,9,1098.78
+1001009,Amina Yilmaz,toys,Mediterranean,2020,11,8426.86
+1000555,Ivan Lee,sports,Eastern,2019,39,2451.49
+1001518,Emre Silva,electronics,Aegean,2019,6,9466.58
+1000516,Ali Rossi,food,Mediterranean,2015,87,3058.22
+1001818,Ayse Demir,toys,Southeastern,2021,73,5510.6
+1001162,Diego Dubois,furniture,Black Sea,2018,15,1584.48
+1000399,Yuki Tanaka,toys,Black Sea,2017,89,7268.5
+1000907,Ayse Kaya,sports,Central,2016,7,1177.88
+1001283,Ayse Patel,automotive,Aegean,2023,68,1268.66
+1000881,Lena Sahin,electronics,Southeastern,2020,53,9614.88
+1000020,Nina Johnson,electronics,Eastern,2016,88,8858.52
+1001862,Sara Johnson,automotive,Aegean,2018,81,1827.33
+1000998,Amina Nguyen,sports,Southeastern,2021,89,9042.67
+1001562,Lena Silva,electronics,Black Sea,2022,38,2893.73
+1001111,Murat Yilmaz,electronics,Southeastern,2022,97,4368.92
+1001791,Priya Muller,electronics,Marmara,2024,87,5156.62
+1001669,Layla Silva,furniture,Eastern,2019,24,8321.61
+1001485,Wei Tanaka,food,Southeastern,2018,29,2664.77
+1001458,Wei Yilmaz,books,Eastern,2024,100,7994.79
+1000906,Fatma Kaya,clothing,Aegean,2015,84,3554.95
+1001549,Can Nguyen,automotive,Marmara,2020,1,6193.13
+1000980,Sara Demir,books,Mediterranean,2017,76,7415.04
+1000403,Diego Andersen,food,Marmara,2024,38,7999.95
+1000150,Diego Patel,clothing,Black Sea,2023,62,3516.38
+1001692,Ali Lee,food,Aegean,2024,83,3993.45
+1000105,Noah Nguyen,clothing,Black Sea,2017,94,5264.77
+1001100,Noah Kaya,sports,Central,2023,82,9368.6
+1001647,Zeynep Yilmaz,furniture,Aegean,2017,99,7212.97
+1001385,Yuki Lee,automotive,Eastern,2022,44,7939.17
+1001794,Wei Demir,automotive,Mediterranean,2018,15,764.64
+1001885,Mia Silva,toys,Aegean,2021,90,5613.16
+1001233,Elif Tanaka,books,Marmara,2017,84,4823.01
+1001457,Omar Khan,food,Mediterranean,2019,94,4174.52
+1000125,Layla Garcia,food,Central,2024,80,696.22
+1001229,Murat Nguyen,clothing,Southeastern,2017,51,548.02
+1001364,Noah Ozturk,food,Eastern,2016,16,1529.73
+1001337,Omar Yilmaz,books,Marmara,2022,56,8098.98
+1001604,Can Sahin,furniture,Southeastern,2016,35,1511.95
+1000390,Nina Sahin,furniture,Aegean,2024,68,2598.69
+1000188,Carlos Demir,sports,Southeastern,2017,17,5447.59
+1000569,Sara Khan,automotive,Southeastern,2015,90,6267.65
+1001348,Hassan Dubois,automotive,Aegean,2018,18,7989.76
+1000545,Ali Rossi,toys,Aegean,2016,91,6732.57
+1001861,Carlos Lee,toys,Marmara,2022,24,2654.01
+1001391,Carlos Andersen,food,Black Sea,2018,51,730.66
+1001880,Diego Andersen,clothing,Mediterranean,2019,37,3481.22
+1001974,Omar Lee,electronics,Aegean,2016,57,3673.45
+1001380,Ivan Arslan,toys,Aegean,2020,33,3096.58
+1000375,Elif Arslan,furniture,Eastern,2016,96,9994.76
+1000525,Ali Garcia,automotive,Black Sea,2023,62,703.63
+1001756,Omar Dubois,sports,Eastern,2015,13,1932.1
+1000508,Nina Silva,toys,Black Sea,2016,75,1046.12
+1001071,Can Sahin,toys,Central,2022,22,6223.82
+1001161,Zeynep Arslan,food,Central,2019,83,1689.62
+1001612,Omar Rossi,books,Mediterranean,2020,16,3668.53
+1000115,Ali Celik,furniture,Central,2016,96,5404.52
+1001551,Emre Tanaka,toys,Marmara,2016,56,4970.76
+1001956,Noah Dubois,food,Central,2023,70,6451.19
+1001596,Ivan Arslan,automotive,Aegean,2020,35,2118.59
+1001134,Carlos Celik,books,Eastern,2023,99,4972.16
+1000556,Can Tanaka,automotive,Aegean,2015,47,137.77
+1000138,Murat Ozturk,toys,Black Sea,2022,37,6658.91
+1001040,Ayse Arslan,automotive,Aegean,2021,48,1450.27
+1000675,Emre Silva,food,Marmara,2020,29,8844.74
+1000203,Diego Silva,electronics,Central,2024,40,3580.95
+1001524,Emre Tanaka,automotive,Marmara,2019,87,4310.47
+1000068,Lena Silva,books,Black Sea,2024,25,2621.5
+1001462,Emre Sahin,furniture,Black Sea,2017,65,9489.04
+1000415,Carlos Tanaka,toys,Black Sea,2020,56,8172.39
+1000468,Sara Yilmaz,toys,Eastern,2017,7,4023.39
+1001839,Can Yilmaz,electronics,Aegean,2022,24,2897.42
+1001226,Omar Andersen,electronics,Mediterranean,2016,6,5182.29
+1001167,Lucas Rossi,books,Black Sea,2017,31,1208.02
+1001330,Ayse Johnson,furniture,Mediterranean,2019,25,8491.06
+1001475,Lena Demir,toys,Southeastern,2015,95,3322.37
+1001831,Carlos Yilmaz,automotive,Aegean,2019,93,513.19
+1000404,Priya Yilmaz,books,Central,2017,49,7144.89
+1000245,Omar Patel,furniture,Central,2024,57,4670.17
+1000570,Nina Silva,books,Black Sea,2017,19,5708.71
+1001650,Carlos Dubois,books,Aegean,2024,81,9943.61
+1001371,Noah Khan,automotive,Eastern,2022,61,2756.25
+1000423,Carlos Patel,food,Mediterranean,2023,89,4240.76
+1001828,Sara Arslan,toys,Southeastern,2015,18,2121.71
+1001504,Hassan Ozturk,electronics,Marmara,2023,84,3450.67
+1001266,Ayse Andersen,electronics,Eastern,2023,38,4250.7
+1001335,Elif Tanaka,furniture,Central,2016,74,8095.15
+1000030,Ivan Smith,furniture,Marmara,2016,91,6347.29
+1000778,Sara Patel,books,Black Sea,2020,34,3673.16
+1000992,Lena Ozturk,toys,Mediterranean,2015,87,183.91
+1000360,Omar Nguyen,food,Mediterranean,2021,30,2550.12
+1000988,Elif Garcia,automotive,Black Sea,2020,68,6859.79
+1001076,Emre Lee,sports,Marmara,2015,52,9316.65
+1001356,Can Patel,furniture,Marmara,2018,89,2379.48
+1000994,Noah Smith,sports,Central,2018,5,334.61
+1000775,Wei Sahin,automotive,Southeastern,2015,23,4272.63
+1001538,Lucas Khan,furniture,Central,2016,40,4124.09
+1001969,Sara Nguyen,sports,Eastern,2017,16,5622.7
+1000644,Elif Yilmaz,sports,Mediterranean,2023,27,6579.85
+1001744,Layla Dubois,furniture,Southeastern,2021,25,779.46
+1001203,Ayse Patel,sports,Eastern,2020,56,2900.68
+1001779,Fatma Silva,books,Central,2018,5,4783.99
+1000705,Elif Khan,electronics,Southeastern,2024,75,4110.43
+1001471,Mia Dubois,electronics,Central,2020,13,130.54
+1000977,Yuki Johnson,electronics,Eastern,2022,75,1773.72
+1000832,Amina Kaya,toys,Mediterranean,2021,48,7962.28
+1001925,Mia Smith,sports,Southeastern,2017,48,3381.54
+1001042,Priya Andersen,electronics,Central,2017,15,8530.5
+1000746,Mia Dubois,sports,Eastern,2024,8,9461.64
+1001981,Can Yilmaz,automotive,Eastern,2019,83,7530.05
+1000025,Omar Smith,electronics,Aegean,2024,11,947.88
+1001197,Carlos Johnson,books,Marmara,2023,8,615.86
+1001255,Priya Kaya,automotive,Southeastern,2022,97,1198.1
+1001545,Nina Smith,clothing,Marmara,2020,18,5184.96
+1001195,Ali Rossi,automotive,Marmara,2015,61,1418.6
+1000434,Layla Smith,food,Eastern,2017,24,6440.1
+1000058,Lucas Sahin,electronics,Central,2020,6,8998.45
+1000467,Ayse Garcia,clothing,Southeastern,2019,12,6579.77
+1001555,Emre Sahin,toys,Eastern,2021,1,3656.08
+1001688,Layla Silva,food,Marmara,2020,29,5124.34
+1000599,Wei Garcia,food,Southeastern,2020,48,2679.28
+1001749,Nina Muller,electronics,Black Sea,2019,48,1068.25
+1001691,Nina Dubois,toys,Central,2017,74,9928.02
+1000317,Wei Demir,automotive,Central,2024,74,2352.45
+1000604,Priya Ozturk,books,Black Sea,2020,81,9866.75
+1001979,Diego Celik,electronics,Mediterranean,2020,4,8644.67
+1001899,Omar Andersen,food,Eastern,2022,67,1349.04
+1000625,Wei Celik,sports,Eastern,2018,59,9886.8
+1001163,Elif Smith,sports,Black Sea,2022,72,9912.81
+1000325,Ali Garcia,sports,Eastern,2018,89,7078.68
+1000629,Layla Dubois,sports,Eastern,2016,48,8167.33
+1000597,Emre Garcia,books,Black Sea,2017,95,2660.39
+1000743,Mia Muller,electronics,Aegean,2021,82,152.37
+1001915,Murat Ozturk,automotive,Central,2016,45,6999.29
+1000760,Mia Muller,books,Mediterranean,2017,61,3207.03
+1001500,Priya Garcia,automotive,Eastern,2017,74,1461.72
+1000054,Sara Khan,automotive,Central,2015,12,6378.78
+1001552,Zeynep Khan,clothing,Black Sea,2016,63,168.41
+1001069,Priya Khan,automotive,Black Sea,2019,73,1406.22
+1000304,Layla Patel,sports,Black Sea,2015,12,9456.86
+1001920,Ali Muller,electronics,Central,2022,53,2290.75
+1000074,Elif Garcia,sports,Aegean,2021,75,6105.34
+1001218,Mia Yilmaz,electronics,Southeastern,2018,21,3945.79
+1000564,Ivan Patel,furniture,Black Sea,2019,11,4008.17
+1001837,Ali Smith,books,Mediterranean,2015,30,4188.94
+1001645,Wei Khan,books,Mediterranean,2017,4,5912.45
+1001668,Ayse Yilmaz,sports,Black Sea,2016,39,8749.51
+1000678,Layla Smith,furniture,Marmara,2020,49,9166.82
+1001554,Lucas Ozturk,sports,Marmara,2022,85,8408.8
+1001982,Emre Nguyen,books,Marmara,2019,48,385.46
+1000702,Lena Patel,automotive,Black Sea,2020,100,3123.87
+1001306,Carlos Andersen,furniture,Black Sea,2023,97,5093.27
+1001317,Sara Silva,furniture,Mediterranean,2023,41,8850.04
+1001007,Zeynep Lee,furniture,Marmara,2021,89,8197.15
+1001579,Ivan Dubois,toys,Central,2022,98,2099.59
+1000152,Ali Andersen,food,Aegean,2021,6,3249.63
+1000676,Diego Muller,toys,Central,2019,28,9507.1
+1001427,Murat Dubois,toys,Eastern,2021,87,9252.15
+1001978,Diego Nguyen,food,Marmara,2017,90,7071.51
+1000431,Priya Nguyen,toys,Marmara,2019,6,8120.03
+1001865,Priya Johnson,sports,Marmara,2020,70,7210.64
+1001778,Nina Lee,clothing,Marmara,2019,19,9958.56
+1000291,Priya Smith,toys,Mediterranean,2019,11,2580.74
+1001726,Emre Dubois,toys,Mediterranean,2021,31,5805.92
+1000846,Omar Yilmaz,food,Mediterranean,2018,94,864.22
+1000751,Mia Andersen,furniture,Mediterranean,2015,95,7065.15
+1000347,Ali Sahin,automotive,Aegean,2022,96,9888.51
+1001606,Lena Yilmaz,furniture,Aegean,2022,98,5671.66
+1001188,Ali Yilmaz,automotive,Aegean,2019,90,8532.27
+1000538,Murat Khan,toys,Marmara,2020,91,9424.1
+1000299,Lena Dubois,clothing,Central,2020,94,9880.44
+1000213,Murat Garcia,automotive,Mediterranean,2019,6,2282.91
+1000255,Carlos Khan,food,Marmara,2019,31,3081.1
+1000878,Ayse Andersen,furniture,Southeastern,2017,40,6915.78
+1000902,Murat Sahin,furniture,Marmara,2024,98,2605.55
+1001289,Hassan Demir,books,Mediterranean,2020,9,8716.35
+1001347,Yuki Arslan,clothing,Eastern,2023,33,3618.02
+1001770,Nina Ozturk,sports,Eastern,2020,43,3970.77
+1001973,Priya Garcia,furniture,Black Sea,2020,48,1871.98
+1001635,Ayse Arslan,food,Mediterranean,2015,29,3983.29
+1001872,Nina Khan,toys,Aegean,2021,75,422.7
+1000600,Omar Nguyen,books,Black Sea,2015,82,5876.81
+1000123,Yuki Garcia,books,Aegean,2016,72,7667.23
+1001715,Sara Muller,books,Mediterranean,2021,55,2077.04
+1000899,Mia Lee,food,Marmara,2017,43,5697.8
+1001620,Lucas Dubois,toys,Aegean,2018,50,4244.31
+1001760,Zeynep Ozturk,electronics,Mediterranean,2020,61,5872.69
+1001472,Priya Tanaka,clothing,Marmara,2024,16,8702.28
+1000248,Priya Khan,books,Central,2016,98,1686.93
+1001786,Lucas Nguyen,electronics,Mediterranean,2015,99,4266.67
+1000533,Lena Rossi,electronics,Eastern,2020,73,5679.14
+1001614,Emre Silva,clothing,Eastern,2019,80,8193.05
+1000145,Murat Nguyen,books,Eastern,2017,64,9332.33
+1001958,Yuki Celik,clothing,Southeastern,2023,76,6483.17
+1000963,Ivan Arslan,clothing,Black Sea,2017,25,5598.12
+1001065,Ayse Arslan,electronics,Central,2021,88,5459.66
+1000833,Can Dubois,sports,Mediterranean,2015,94,796.77
+1001466,Lena Demir,furniture,Black Sea,2022,87,7628.52
+1001649,Carlos Silva,electronics,Eastern,2021,31,2167.12
+1000144,Omar Lee,electronics,Mediterranean,2021,12,2324.31
+1001476,Layla Smith,automotive,Black Sea,2024,11,3548.16
+1001329,Yuki Dubois,clothing,Marmara,2024,17,7484.39
+1001793,Hassan Sahin,furniture,Eastern,2017,39,6318.94
+1000679,Murat Tanaka,sports,Mediterranean,2019,4,9121.31
+1001238,Layla Sahin,automotive,Black Sea,2015,15,1744.28
+1000228,Nina Yilmaz,sports,Black Sea,2022,5,663.15
+1001314,Diego Tanaka,toys,Southeastern,2018,75,8421.93
+1001025,Murat Dubois,food,Southeastern,2017,3,8807.43
+1001331,Elif Lee,sports,Eastern,2023,59,119.35
+1001983,Can Patel,clothing,Eastern,2020,95,1851.21
+1000496,Yuki Celik,furniture,Eastern,2023,1,535.93
+1000909,Emre Nguyen,toys,Marmara,2016,99,3062.72
+1001236,Murat Demir,furniture,Southeastern,2015,27,4862.58
+1001802,Omar Nguyen,books,Mediterranean,2021,2,5846.75
+1000941,Diego Kaya,books,Black Sea,2015,12,4321.58
+1000945,Layla Patel,furniture,Aegean,2017,79,2654.46
+1001895,Omar Johnson,automotive,Black Sea,2018,22,2955.65
+1000424,Can Rossi,books,Marmara,2018,85,6679.8
+1000064,Ali Smith,electronics,Eastern,2018,52,3349.47
+1000133,Priya Tanaka,sports,Mediterranean,2023,64,4433.37
+1001616,Priya Yilmaz,electronics,Southeastern,2017,100,6592.3
+1000272,Priya Nguyen,toys,Black Sea,2015,94,8712.5
+1001909,Nina Arslan,electronics,Black Sea,2016,63,5621.04
+1000410,Wei Lee,furniture,Mediterranean,2023,22,6883.94
+1001784,Amina Nguyen,clothing,Black Sea,2021,13,1472.1
+1001598,Noah Sahin,automotive,Marmara,2022,24,4647.5
+1000491,Ayse Demir,clothing,Black Sea,2020,67,5219.99
+1001747,Elif Patel,automotive,Central,2019,16,9275.66
+1000938,Carlos Lee,books,Aegean,2023,45,5538.17
+1000331,Ali Kaya,furniture,Eastern,2018,7,1091.86
+1000396,Priya Andersen,automotive,Central,2015,10,6875.16
+1001048,Wei Khan,electronics,Black Sea,2023,51,4844.29
+1001131,Murat Celik,sports,Black Sea,2022,30,6320.24
+1000798,Hassan Patel,sports,Marmara,2021,38,6009.74
+1001683,Diego Silva,sports,Eastern,2024,13,9953.1
+1001232,Wei Dubois,sports,Southeastern,2016,56,5389.79
+1001362,Elif Ozturk,sports,Marmara,2015,87,1458.57
+1000759,Nina Lee,electronics,Eastern,2019,32,2943.88
+1000187,Ivan Arslan,furniture,Southeastern,2018,43,7765.47
+1000967,Priya Dubois,food,Mediterranean,2017,59,5142.7
+1001282,Lucas Nguyen,automotive,Eastern,2021,21,1528.88
+1001766,Amina Demir,clothing,Black Sea,2018,85,9940.47
+1001844,Noah Silva,automotive,Central,2016,27,9128.38
+1000512,Fatma Sahin,books,Aegean,2016,22,4550.26
+1001783,Ivan Arslan,sports,Central,2016,39,5709.42
+1000666,Priya Garcia,electronics,Black Sea,2021,54,9570.39
+1000047,Ali Johnson,food,Aegean,2019,59,3229.84
+1000838,Nina Muller,clothing,Mediterranean,2024,57,9340.91
+1001739,Omar Yilmaz,toys,Mediterranean,2018,85,6505.98
+1001585,Nina Yilmaz,clothing,Black Sea,2023,50,5668.17
+1001985,Omar Patel,electronics,Black Sea,2024,82,7134.14
+1001031,Murat Khan,books,Mediterranean,2020,98,9868.16
+1001270,Fatma Garcia,books,Marmara,2023,43,3960.55
+1001249,Priya Yilmaz,automotive,Aegean,2017,26,1647.35
+1000284,Priya Ozturk,toys,Mediterranean,2018,16,9851.83
+1000460,Lucas Tanaka,automotive,Marmara,2016,52,5204.06
+1001268,Sara Khan,clothing,Eastern,2021,58,6473.76
+1000060,Wei Sahin,furniture,Southeastern,2017,23,8825.14
+1001304,Can Garcia,food,Marmara,2020,19,4186.53
+1000387,Carlos Dubois,automotive,Eastern,2022,3,165.46
+1000841,Ivan Johnson,toys,Black Sea,2022,51,101.94
+1001378,Noah Yilmaz,sports,Southeastern,2023,66,5511.31
+1001413,Priya Nguyen,clothing,Black Sea,2019,21,1788.66
+1001553,Diego Johnson,furniture,Black Sea,2021,48,3062.62
+1001189,Can Tanaka,food,Mediterranean,2019,20,981.62
+1001670,Zeynep Silva,toys,Southeastern,2019,22,2065.99
+1000202,Yuki Lee,toys,Eastern,2016,53,3600.27
+1001813,Zeynep Kaya,sports,Marmara,2015,96,821.46
+1001698,Zeynep Andersen,food,Marmara,2017,59,6380.55
+1001395,Mia Garcia,furniture,Aegean,2019,85,5290.99
+1000685,Sara Lee,books,Mediterranean,2018,34,4135.16
+1001400,Yuki Arslan,automotive,Central,2018,1,9910.75
+1000007,Carlos Johnson,electronics,Eastern,2022,69,1335.65
+1000591,Diego Rossi,sports,Central,2016,62,731.92
+1000820,Sara Kaya,automotive,Eastern,2022,72,3017.38
+1000364,Ivan Arslan,electronics,Aegean,2023,38,2417.96
+1000322,Fatma Lee,toys,Eastern,2022,68,3830.19
+1001968,Omar Khan,clothing,Southeastern,2019,56,5648.25
+1000587,Amina Silva,electronics,Southeastern,2015,61,9123.09
+1000951,Hassan Tanaka,books,Central,2018,89,5950.01
+1001014,Hassan Lee,automotive,Marmara,2015,44,654.88
+1000828,Can Sahin,clothing,Southeastern,2015,26,1159.74
+1000462,Wei Yilmaz,automotive,Eastern,2020,9,7976.42
+1000804,Ivan Demir,clothing,Marmara,2019,35,1337.76
+1001473,Sara Smith,toys,Black Sea,2024,88,6622.21
+1001097,Sara Patel,books,Central,2023,94,5794.54
+1001667,Fatma Demir,food,Central,2019,82,1843.27
+1000651,Lucas Kaya,books,Southeastern,2022,59,6618.06
+1001882,Amina Arslan,clothing,Black Sea,2015,22,1295.69
+1001591,Ali Arslan,books,Marmara,2020,81,6090.47
+1001361,Sara Ozturk,toys,Southeastern,2023,32,1867.38
+1000217,Diego Rossi,books,Black Sea,2015,56,285.52
+1001291,Hassan Dubois,clothing,Southeastern,2017,65,6400.32
+1000744,Zeynep Sahin,automotive,Mediterranean,2021,12,734.33
+1001480,Ivan Smith,furniture,Aegean,2017,97,9446.73
+1001994,Omar Sahin,electronics,Central,2016,36,5648.98
+1001629,Zeynep Demir,food,Aegean,2017,61,7460.48
+1000857,Ali Yilmaz,sports,Southeastern,2021,42,6878.22
+1000446,Fatma Tanaka,automotive,Black Sea,2022,54,7129.7
+1001442,Fatma Johnson,automotive,Marmara,2020,51,3839.03
+1000837,Noah Nguyen,food,Marmara,2017,24,5544.11
+1001789,Elif Nguyen,automotive,Southeastern,2015,11,641.4
+1001863,Carlos Kaya,furniture,Marmara,2015,24,6875.29
+1001901,Hassan Johnson,books,Southeastern,2017,36,7342.44
+1000366,Lena Smith,sports,Aegean,2023,29,4193.83
+1000593,Ali Kaya,food,Eastern,2020,88,1485.16
+1001169,Sara Patel,books,Aegean,2024,16,7753.82
+1000227,Hassan Nguyen,sports,Southeastern,2019,76,656.05
+1001730,Lena Patel,electronics,Black Sea,2019,90,9840.29
+1000448,Ali Garcia,electronics,Central,2018,69,2957.55
+1001821,Ivan Sahin,books,Black Sea,2021,81,3823.19
+1001506,Hassan Garcia,clothing,Eastern,2021,100,6948.08
+1000253,Hassan Sahin,automotive,Black Sea,2024,1,9067.08
+1001244,Yuki Muller,books,Central,2021,61,1257.6
+1000776,Ayse Khan,toys,Southeastern,2022,39,2584.39
+1000270,Lucas Dubois,clothing,Mediterranean,2019,42,1115.62
+1001101,Nina Arslan,clothing,Southeastern,2016,77,7550.27
+1000769,Elif Demir,furniture,Black Sea,2024,13,3321.49
+1000481,Murat Smith,automotive,Eastern,2024,10,5329.51
+1001006,Nina Patel,automotive,Black Sea,2021,94,7830.5
+1001140,Diego Lee,automotive,Black Sea,2023,21,5115.68
+1000582,Noah Arslan,sports,Central,2022,65,4029.33
+1000048,Zeynep Demir,automotive,Mediterranean,2024,13,825.21
+1000851,Ivan Andersen,clothing,Central,2023,90,2285.67
+1000884,Ali Smith,electronics,Central,2016,89,7819.5
+1001157,Amina Khan,clothing,Mediterranean,2022,28,6641.32
+1000721,Diego Patel,automotive,Aegean,2024,21,6507.22
+1001279,Priya Silva,food,Marmara,2016,8,4305.95
+1000342,Mia Celik,clothing,Aegean,2022,42,9363.74
+1001198,Ali Patel,toys,Mediterranean,2024,91,7506.85
+1001280,Ayse Patel,furniture,Black Sea,2016,48,6799.87
+1000320,Elif Nguyen,toys,Black Sea,2017,53,6935.26
+1000061,Elif Ozturk,toys,Southeastern,2021,86,8653.37
+1001930,Nina Silva,electronics,Marmara,2023,78,9196.93
+1001964,Murat Khan,books,Aegean,2016,72,3992.75
+1000925,Diego Muller,toys,Marmara,2017,36,8422.48
+1000646,Lena Lee,automotive,Eastern,2020,92,4579.62
+1000598,Ivan Ozturk,toys,Eastern,2016,29,3616.95
+1000623,Priya Patel,toys,Aegean,2015,2,6748.5
+1001938,Lena Sahin,books,Marmara,2023,22,2155.84
+1001085,Lucas Rossi,food,Central,2015,37,3514.37
+1000426,Lucas Celik,electronics,Marmara,2019,29,5155.18
+1000171,Can Andersen,toys,Eastern,2017,12,9104.41
+1001587,Fatma Andersen,electronics,Southeastern,2023,59,5087.29
+1001150,Diego Muller,clothing,Mediterranean,2019,47,9696.37
+1000997,Priya Ozturk,sports,Central,2022,85,9367.27
+1001294,Can Nguyen,sports,Eastern,2016,22,7100.66
+1000161,Lucas Andersen,clothing,Aegean,2017,11,6133.36
+1001171,Murat Ozturk,furniture,Central,2022,53,2617.37
+1001354,Priya Nguyen,toys,Southeastern,2024,73,9633.38
+1000067,Sara Kaya,books,Mediterranean,2021,45,7311.87
+1000826,Mia Arslan,automotive,Southeastern,2023,20,6168.48
+1000524,Sara Johnson,automotive,Aegean,2015,79,6229.23
+1000799,Elif Lee,toys,Aegean,2021,72,4426.92
+1001379,Zeynep Johnson,furniture,Marmara,2016,10,3665.98
+1000349,Ali Dubois,books,Mediterranean,2022,68,7066.58
+1001840,Lena Rossi,furniture,Central,2017,78,4038.01
+1001091,Ayse Arslan,clothing,Southeastern,2021,38,5582.73
+1001933,Sara Andersen,automotive,Black Sea,2019,55,1021.22
+1001022,Diego Andersen,clothing,Central,2018,98,551.26
+1000947,Elif Yilmaz,automotive,Marmara,2020,62,4665.83
+1000311,Lena Lee,toys,Southeastern,2017,26,6063.78
+1000911,Hassan Sahin,books,Eastern,2019,43,5317.3
+1001702,Ayse Garcia,sports,Aegean,2016,10,4992.53
+1000655,Nina Tanaka,food,Mediterranean,2018,36,4038.52
+1000698,Fatma Muller,automotive,Black Sea,2020,79,6627.62
+1000703,Ivan Celik,clothing,Eastern,2024,11,8432.91
+1001694,Lena Khan,clothing,Black Sea,2018,13,7128.54
+1001143,Noah Rossi,electronics,Southeastern,2020,49,1063.67
+1000975,Layla Khan,automotive,Mediterranean,2020,54,3593.5
+1000797,Ayse Rossi,sports,Black Sea,2023,2,6908.23
+1001109,Murat Smith,clothing,Southeastern,2017,89,2342.86
+1000674,Priya Muller,furniture,Aegean,2023,9,7883.17
+1001220,Wei Garcia,clothing,Central,2016,48,5174.75
+1001508,Layla Rossi,electronics,Marmara,2016,11,1308.19
+1000862,Ali Dubois,clothing,Southeastern,2019,2,3498.04
+1001205,Lena Patel,clothing,Mediterranean,2022,7,1970.12
+1001819,Zeynep Muller,clothing,Eastern,2023,64,1982.17
+1001572,Can Ozturk,electronics,Marmara,2015,85,7472.33
+1001663,Zeynep Muller,toys,Mediterranean,2022,28,7051.98
+1001492,Ayse Dubois,sports,Aegean,2015,77,3269.06
+1000590,Layla Garcia,food,Mediterranean,2016,1,5163.47
+1001253,Murat Lee,furniture,Black Sea,2019,44,7869.58
+1000131,Ayse Johnson,clothing,Marmara,2015,22,7946.23
+1000453,Murat Smith,furniture,Southeastern,2024,89,3570.89
+1001611,Diego Tanaka,books,Black Sea,2017,15,2322.55
+1001453,Noah Demir,clothing,Central,2024,59,9447.28
+1000038,Ivan Demir,books,Southeastern,2018,22,4123.09
+1000461,Sara Rossi,automotive,Black Sea,2020,75,124.48
+1000454,Priya Dubois,food,Aegean,2024,18,7869.22
+1000199,Layla Tanaka,food,Eastern,2016,41,4324.54
+1001773,Noah Garcia,books,Marmara,2022,88,1556.45
+1001301,Lena Tanaka,sports,Marmara,2016,13,5463.07
+1001227,Nina Silva,food,Marmara,2022,85,7230.35
+1000948,Emre Garcia,toys,Mediterranean,2024,17,5128.19
+1000547,Zeynep Rossi,sports,Southeastern,2016,93,112.68
+1001533,Mia Ozturk,toys,Southeastern,2023,71,5986.11
+1000266,Ivan Patel,sports,Marmara,2018,37,3633.69
+1001346,Yuki Arslan,books,Marmara,2015,77,7160.95
+1000849,Lucas Silva,books,Southeastern,2018,96,6561.86
+1000039,Hassan Arslan,food,Marmara,2017,49,121.34
+1001961,Mia Patel,clothing,Aegean,2017,22,4806.62
+1000834,Omar Yilmaz,furniture,Mediterranean,2016,13,7278.48
+1001795,Ayse Dubois,books,Mediterranean,2016,32,2122.3
+1001986,Elif Yilmaz,books,Southeastern,2023,70,2846.76
+1001720,Noah Sahin,toys,Marmara,2015,41,6913.41
+1001389,Lucas Tanaka,sports,Central,2024,3,5718.45
+1000372,Layla Rossi,books,Mediterranean,2018,7,2757.5
+1000817,Amina Kaya,electronics,Central,2017,90,5409.36
+1001239,Ayse Nguyen,automotive,Black Sea,2015,58,5893.15
+1000094,Zeynep Silva,clothing,Southeastern,2022,24,597.77
+1001376,Layla Nguyen,food,Black Sea,2020,64,3238.19
+1001028,Sara Khan,automotive,Black Sea,2018,23,6143.72
+1000567,Diego Silva,furniture,Southeastern,2017,77,2652.82
+1000381,Lucas Garcia,clothing,Aegean,2020,30,3860.03
+1001411,Elif Johnson,books,Eastern,2017,42,6735.26
+1001654,Emre Nguyen,sports,Black Sea,2019,98,8778.04
+1001588,Wei Khan,sports,Central,2018,38,7111.01
+1001805,Nina Arslan,toys,Eastern,2023,50,5178.63
+1000441,Diego Sahin,toys,Marmara,2018,40,1257.68
+1000969,Elif Andersen,automotive,Southeastern,2018,92,5066.61
+1001175,Carlos Kaya,electronics,Eastern,2018,33,5571.45
+1001796,Hassan Demir,automotive,Black Sea,2015,16,3068.95
+1000101,Elif Garcia,food,Black Sea,2018,10,5961.18
+1001422,Amina Arslan,furniture,Mediterranean,2021,55,1295.84
+1001583,Emre Dubois,sports,Eastern,2017,38,549.86
+1001105,Emre Celik,furniture,Aegean,2023,29,8331.75
+1001053,Priya Tanaka,clothing,Southeastern,2020,81,4696.06
+1001261,Sara Rossi,food,Central,2018,20,7555.99
+1001677,Wei Arslan,food,Eastern,2023,100,1744.23
+1001713,Priya Johnson,food,Marmara,2024,99,5916.44
+1001170,Lena Muller,food,Southeastern,2018,55,2258.07
+1000393,Amina Kaya,books,Black Sea,2021,49,5571.19
+1000239,Noah Garcia,clothing,Aegean,2020,99,4913.6
+1000888,Emre Nguyen,automotive,Eastern,2020,59,8886.22
+1000163,Amina Johnson,automotive,Central,2015,60,9021.07
+1001939,Hassan Andersen,furniture,Marmara,2017,52,6202.62
+1001338,Yuki Muller,sports,Aegean,2016,61,2459.52
+1001478,Nina Andersen,electronics,Aegean,2022,12,3083.05
+1000527,Nina Smith,electronics,Black Sea,2020,62,5490.18
+1001530,Mia Smith,food,Marmara,2016,23,5311.58
+1000377,Omar Tanaka,automotive,Mediterranean,2020,40,2689.2
+1000046,Yuki Khan,toys,Central,2018,86,7189.58
+1001849,Elif Tanaka,food,Black Sea,2015,29,2136.52
+1001680,Murat Patel,automotive,Black Sea,2021,46,3586.54
+1001729,Lucas Garcia,sports,Central,2020,52,889.62
+1001535,Ayse Sahin,clothing,Black Sea,2024,95,2746.69
+1001305,Lena Johnson,food,Southeastern,2016,7,2105.14
+1001827,Murat Andersen,automotive,Central,2015,5,3446.31
+1000162,Mia Dubois,furniture,Black Sea,2024,19,2398.43
+1001486,Omar Yilmaz,books,Marmara,2020,95,5962.19
+1001050,Elif Silva,furniture,Aegean,2020,38,2466.48
+1000783,Ayse Ozturk,toys,Black Sea,2024,74,4106.85
+1001967,Hassan Patel,furniture,Aegean,2021,82,8351.86
+1001307,Murat Johnson,electronics,Central,2022,71,4129.65
+1001483,Diego Celik,clothing,Mediterranean,2022,12,7975.06
+1001248,Lucas Rossi,automotive,Southeastern,2017,80,2151.16
+1000301,Lena Smith,automotive,Marmara,2019,58,2554.15
+1000079,Zeynep Nguyen,food,Eastern,2024,25,7210.91
+1001666,Mia Kaya,toys,Southeastern,2021,61,2212.65
+1000669,Fatma Arslan,sports,Black Sea,2017,88,837.17
+1000157,Ivan Tanaka,toys,Eastern,2022,70,455.37
+1000084,Nina Silva,automotive,Aegean,2022,58,2665.74
+1001852,Elif Muller,food,Southeastern,2021,94,9291.88
+1001166,Elif Kaya,books,Central,2024,39,8684.13
+1001073,Diego Sahin,clothing,Aegean,2016,6,9937.36
+1001940,Hassan Khan,furniture,Marmara,2022,33,4176.99
+1000500,Nina Kaya,clothing,Aegean,2023,6,9544.43
+1001265,Emre Silva,electronics,Black Sea,2015,85,9232.01
+1001412,Layla Patel,automotive,Marmara,2016,71,6603.87
+1000939,Sara Sahin,sports,Mediterranean,2018,22,805.23
+1000708,Yuki Garcia,clothing,Black Sea,2023,66,996.39
+1000563,Yuki Smith,electronics,Southeastern,2021,67,4244.04
+1000883,Elif Dubois,sports,Mediterranean,2024,79,2385.79
+1001011,Omar Tanaka,books,Eastern,2020,63,940.05
+1001297,Nina Demir,books,Eastern,2023,24,9626.57
+1000297,Omar Patel,furniture,Southeastern,2021,39,4589.63
+1001489,Lucas Muller,toys,Southeastern,2017,67,6670.39
+1000259,Lucas Ozturk,books,Mediterranean,2020,9,9537.74
+1000194,Mia Silva,books,Black Sea,2022,10,9001.84
+1001949,Ayse Garcia,furniture,Southeastern,2024,92,3775.04
+1000173,Noah Khan,sports,Southeastern,2017,33,9148.17
+1000359,Ivan Tanaka,clothing,Eastern,2018,1,7585.42
+1000510,Ayse Smith,sports,Central,2020,51,7036.48
+1000812,Wei Kaya,books,Central,2022,82,3057.95
+1001513,Ivan Khan,automotive,Marmara,2023,75,5435.38
+1001655,Amina Sahin,books,Mediterranean,2022,6,3698.01
+1000075,Lena Nguyen,automotive,Black Sea,2018,66,4784.07
+1001499,Mia Celik,clothing,Central,2024,7,8512.27
+1000732,Diego Silva,food,Central,2015,90,5344.65
+1001659,Priya Lee,electronics,Aegean,2016,38,3820.26
+1001221,Hassan Nguyen,food,Black Sea,2019,73,6042.77
+1000073,Lucas Tanaka,clothing,Mediterranean,2024,39,4119.74
+1001303,Lucas Ozturk,electronics,Mediterranean,2020,24,368.97
+1000610,Noah Garcia,clothing,Marmara,2021,65,5927.25
+1000665,Diego Lee,furniture,Eastern,2023,50,2451.96
+1000915,Ayse Dubois,automotive,Mediterranean,2022,64,8098.2
+1000036,Fatma Lee,automotive,Aegean,2021,24,2857.32
+1000855,Nina Silva,clothing,Southeastern,2017,62,5636.47
+1000731,Zeynep Patel,clothing,Mediterranean,2023,1,8979.1
+1000601,Carlos Yilmaz,automotive,Aegean,2023,16,8687.36
+1001657,Noah Khan,toys,Central,2016,88,4190.21
+1000548,Mia Nguyen,food,Aegean,2021,64,8828.65
+1001112,Fatma Celik,electronics,Southeastern,2023,76,686.67
+1000049,Fatma Khan,sports,Aegean,2020,9,8803.9
+1001571,Noah Johnson,toys,Eastern,2021,32,3266.1
+1000607,Amina Silva,food,Black Sea,2022,50,146.22
+1001717,Sara Andersen,food,Central,2024,83,9507.79
+1001866,Carlos Smith,toys,Marmara,2016,65,4493.3
+1001722,Ivan Yilmaz,food,Central,2024,28,5319.37
+1000517,Emre Demir,food,Southeastern,2022,72,7505.23
+1000757,Layla Nguyen,electronics,Black Sea,2016,34,768.72
+1001687,Mia Celik,furniture,Southeastern,2022,16,3570.72
+1001740,Fatma Yilmaz,books,Black Sea,2015,28,229.96
+1000103,Murat Andersen,electronics,Central,2023,55,6648.4
+1000752,Zeynep Lee,sports,Eastern,2023,75,3545.79
+1000943,Fatma Lee,books,Southeastern,2022,73,1404.64
+1001003,Layla Johnson,books,Marmara,2016,10,5755.74
+1000249,Layla Khan,clothing,Southeastern,2021,12,9468.54
+1000082,Ali Celik,automotive,Aegean,2022,86,5357.67
+1000577,Ali Sahin,sports,Eastern,2022,100,8274.83
+1000952,Lucas Andersen,toys,Mediterranean,2018,23,6659.2
+1000100,Noah Ozturk,books,Southeastern,2017,40,1170.07
+1001876,Omar Smith,toys,Aegean,2020,30,4612.17
+1001743,Ayse Khan,books,Aegean,2018,47,3916.81
+1001491,Lena Sahin,sports,Southeastern,2018,64,6831.13
+1001259,Lena Sahin,books,Southeastern,2018,57,9698.43
+1001055,Lucas Johnson,furniture,Southeastern,2016,80,8819.51
+1000405,Amina Sahin,food,Central,2020,14,1005.96
+1001932,Lucas Khan,electronics,Central,2019,59,2106.2
+1001209,Ayse Celik,toys,Marmara,2018,37,1888.3
+1001450,Can Celik,food,Mediterranean,2017,25,7652.45
+1000691,Ayse Garcia,toys,Marmara,2023,72,1499.46
+1000015,Yuki Muller,furniture,Eastern,2022,51,8857.48
+1000308,Can Tanaka,electronics,Mediterranean,2023,25,3688.62
+1000164,Diego Lee,clothing,Marmara,2022,45,9876.76
+1001765,Lena Khan,automotive,Marmara,2019,88,5240.64
+1000786,Noah Andersen,automotive,Black Sea,2017,24,8555.84
+1001556,Priya Arslan,books,Aegean,2019,6,1423.3
+1001089,Nina Muller,books,Mediterranean,2021,12,165.52
+1000869,Amina Tanaka,furniture,Black Sea,2023,91,1085.98
+1000367,Sara Kaya,clothing,Eastern,2021,72,5006.15
+1001609,Murat Khan,food,Aegean,2015,29,337.58
+1000229,Omar Yilmaz,books,Mediterranean,2024,65,3905.99
+1000748,Nina Garcia,furniture,Marmara,2024,66,5206.04
+1001096,Zeynep Dubois,toys,Mediterranean,2022,73,4416.64
+1000687,Ivan Demir,books,Southeastern,2024,6,7038.03
+1001459,Ayse Johnson,furniture,Eastern,2021,90,3149.89
+1001873,Wei Sahin,food,Southeastern,2016,10,9589.43
+1001600,Omar Ozturk,clothing,Southeastern,2021,88,6116.83
+1000764,Diego Patel,electronics,Southeastern,2023,6,8494.46
+1001029,Can Dubois,clothing,Eastern,2022,79,9507.0
+1000923,Ivan Muller,automotive,Southeastern,2021,96,654.56
+1001644,Mia Rossi,clothing,Eastern,2016,43,4131.73
+1001695,Ayse Khan,books,Eastern,2024,51,8445.16
+1001237,Ayse Smith,food,Southeastern,2023,25,952.24
+1000238,Wei Khan,books,Eastern,2021,66,3681.74
+1001299,Ivan Dubois,toys,Black Sea,2024,6,4965.09
+1001520,Nina Rossi,furniture,Eastern,2016,85,8214.84
+1000530,Hassan Khan,toys,Southeastern,2024,30,9741.43
+1000871,Ivan Demir,electronics,Aegean,2023,40,3402.01
+1000621,Carlos Arslan,sports,Southeastern,2023,26,3643.07
+1000112,Layla Demir,books,Central,2018,52,6948.0
+1001580,Wei Sahin,electronics,Aegean,2018,54,5549.36
+1000866,Diego Khan,electronics,Central,2017,8,2911.45
+1000823,Nina Sahin,automotive,Central,2019,70,3734.05
+1001373,Ali Tanaka,furniture,Central,2021,49,5756.0
+1001724,Amina Silva,food,Central,2020,26,2051.32
+1000996,Zeynep Dubois,clothing,Black Sea,2024,24,8969.52
+1000024,Nina Demir,toys,Black Sea,2015,15,9297.15
+1000932,Murat Khan,clothing,Aegean,2015,59,3936.74
+1001701,Ayse Demir,books,Marmara,2022,77,1314.45
+1001725,Hassan Patel,electronics,Central,2021,16,1328.39
+1001856,Ivan Garcia,toys,Mediterranean,2021,5,6193.3
+1001177,Mia Johnson,sports,Marmara,2018,39,2182.62
+1001774,Diego Sahin,sports,Mediterranean,2023,86,1709.64
+1000654,Wei Sahin,books,Black Sea,2024,78,8837.81
+1000330,Ivan Johnson,clothing,Marmara,2024,95,5909.04
+1000026,Hassan Yilmaz,clothing,Aegean,2022,71,1734.59
+1001653,Emre Yilmaz,sports,Mediterranean,2020,46,983.28
+1001646,Mia Patel,electronics,Central,2017,20,6854.82
+1000829,Fatma Celik,electronics,Mediterranean,2021,85,4949.62
+1001344,Lucas Smith,electronics,Black Sea,2021,60,7971.34
+1000208,Yuki Tanaka,books,Aegean,2015,12,7485.76
+1001501,Priya Patel,sports,Aegean,2018,28,8062.34
+1001406,Emre Johnson,sports,Eastern,2016,90,7292.0
+1000710,Nina Sahin,automotive,Aegean,2017,73,9491.3
+1000170,Wei Sahin,books,Eastern,2015,40,7906.46
+1001652,Zeynep Patel,books,Black Sea,2020,22,9346.22
+1000953,Zeynep Andersen,automotive,Marmara,2024,77,4682.33
+1000218,Zeynep Muller,food,Mediterranean,2021,91,6436.76
+1001060,Sara Khan,food,Central,2015,9,3790.48
+1001398,Wei Yilmaz,food,Southeastern,2018,17,8716.58
+1001738,Diego Patel,sports,Central,2022,29,1008.72
+1000335,Ivan Kaya,clothing,Black Sea,2017,5,9971.0
+1000368,Noah Tanaka,toys,Eastern,2021,53,1577.11
+1001900,Layla Garcia,books,Eastern,2016,57,8899.02
+1001929,Murat Tanaka,food,Aegean,2019,11,857.54
+1000072,Lucas Muller,food,Eastern,2019,71,1360.02
+1000985,Noah Kaya,sports,Southeastern,2016,7,1759.08
+1001682,Emre Lee,clothing,Mediterranean,2021,49,2921.49
+1001383,Mia Tanaka,electronics,Black Sea,2023,98,9518.79
+1000793,Ayse Lee,clothing,Mediterranean,2024,59,6346.74
+1000638,Diego Tanaka,clothing,Southeastern,2023,79,640.15
+1000584,Hassan Andersen,toys,Central,2017,34,7513.97
+1000309,Omar Yilmaz,food,Mediterranean,2022,98,5543.04
+1000872,Mia Ozturk,electronics,Central,2020,46,6289.16
+1000369,Mia Ozturk,automotive,Aegean,2018,39,8588.8
+1001340,Carlos Nguyen,books,Eastern,2022,75,1335.66
+1000787,Ayse Smith,sports,Eastern,2016,27,1752.25
+1000696,Zeynep Johnson,books,Aegean,2024,63,9519.29
+1000191,Wei Silva,books,Eastern,2016,61,4537.48
+1000892,Amina Kaya,furniture,Central,2022,51,8854.65
+1000619,Murat Khan,sports,Mediterranean,2024,90,1457.78
+1000433,Wei Smith,clothing,Mediterranean,2017,43,5641.94
+1000091,Lucas Lee,furniture,Black Sea,2018,35,4414.34
+1000385,Zeynep Kaya,electronics,Black Sea,2017,81,2390.96
+1001024,Emre Rossi,clothing,Black Sea,2018,75,502.88
+1000283,Zeynep Lee,sports,Central,2017,92,7123.97
+1000472,Lucas Sahin,automotive,Marmara,2018,50,984.29
+1001323,Mia Dubois,toys,Black Sea,2017,99,8136.7
+1000159,Amina Celik,automotive,Aegean,2019,4,555.26
+1000816,Zeynep Smith,clothing,Black Sea,2016,88,6223.97
+1001836,Carlos Rossi,toys,Aegean,2020,56,9187.96
+1001228,Sara Rossi,sports,Mediterranean,2016,99,5083.6
+1001251,Can Demir,toys,Central,2020,87,1670.04
+1000004,Ivan Silva,furniture,Black Sea,2024,36,8112.55
+1001686,Can Garcia,food,Aegean,2018,100,4600.38
+1001027,Omar Silva,automotive,Eastern,2017,27,1516.43
+1000697,Noah Sahin,furniture,Marmara,2019,80,791.04
+1000742,Diego Celik,furniture,Black Sea,2017,13,2222.92
+1000756,Mia Andersen,automotive,Southeastern,2018,97,3462.3
+1000482,Elif Rossi,toys,Aegean,2021,73,4266.13
+1001573,Fatma Garcia,automotive,Central,2024,13,4365.55
+1001995,Carlos Tanaka,toys,Black Sea,2017,73,8376.61
+1001247,Yuki Muller,automotive,Aegean,2019,93,7142.0
+1000455,Fatma Kaya,toys,Mediterranean,2019,77,5433.27
+1000056,Emre Nguyen,food,Mediterranean,2015,15,844.84
+1001918,Lucas Kaya,toys,Central,2020,53,3974.25
+1001517,Can Yilmaz,books,Mediterranean,2019,47,9665.17
+1001372,Mia Andersen,electronics,Aegean,2018,26,4575.14
+1001001,Zeynep Patel,furniture,Mediterranean,2021,23,6489.64
+1001951,Wei Sahin,clothing,Mediterranean,2022,2,3244.79
+1000147,Ivan Sahin,food,Aegean,2024,66,7487.55
+1001094,Hassan Celik,sports,Black Sea,2017,63,9076.35
+1000807,Can Muller,books,Southeastern,2017,8,2738.12
+1001841,Diego Celik,books,Marmara,2019,70,2137.82
+1000870,Lena Patel,books,Aegean,2018,65,9670.27
+1001496,Emre Patel,food,Central,2017,3,5524.09
+1001382,Priya Lee,sports,Marmara,2019,37,8240.04
+1001679,Elif Rossi,toys,Marmara,2019,40,5070.14
+1000580,Zeynep Garcia,food,Aegean,2023,73,386.56
+1000670,Emre Khan,books,Black Sea,2015,55,2862.93
+1001934,Lucas Lee,sports,Black Sea,2019,90,5378.19
+1000819,Noah Nguyen,furniture,Marmara,2021,46,7270.83
+1000274,Mia Rossi,clothing,Marmara,2017,78,6812.4
+1001777,Noah Demir,electronics,Central,2017,45,8798.47
+1000652,Nina Sahin,automotive,Marmara,2023,95,580.81
+1000264,Ayse Yilmaz,automotive,Marmara,2019,26,533.64
+1000794,Amina Andersen,food,Mediterranean,2023,40,9097.43
+1000197,Nina Dubois,food,Marmara,2016,84,6543.42
+1001858,Yuki Muller,sports,Southeastern,2017,57,4680.51
+1000498,Emre Kaya,food,Aegean,2020,32,4220.52
+1001447,Lena Sahin,automotive,Aegean,2017,25,141.38
+1000950,Mia Andersen,food,Aegean,2024,32,5524.15
+1001703,Noah Arslan,food,Marmara,2022,3,4195.66
+1000771,Carlos Muller,toys,Aegean,2022,55,2184.06
+1001369,Carlos Yilmaz,clothing,Mediterranean,2021,97,8835.1
+1000968,Ivan Nguyen,food,Central,2018,24,4304.82
+1000436,Lucas Tanaka,electronics,Eastern,2018,27,2855.34
+1001432,Zeynep Kaya,clothing,Central,2022,38,2099.71
+1000808,Mia Yilmaz,automotive,Aegean,2018,33,8189.96
+1001407,Fatma Patel,food,Southeastern,2023,16,9952.64
+1001127,Yuki Celik,clothing,Marmara,2020,26,3452.11
+1000965,Amina Demir,clothing,Eastern,2022,85,4423.24
+1000205,Noah Lee,toys,Marmara,2019,74,2338.75
+1000706,Yuki Arslan,electronics,Mediterranean,2019,70,8949.57
+1000327,Diego Lee,food,Black Sea,2020,99,8064.89
+1000978,Can Garcia,electronics,Central,2022,11,1355.4
+1000011,Noah Ozturk,toys,Central,2018,86,2742.81
+1000767,Lucas Patel,electronics,Mediterranean,2020,51,8617.1
+1001589,Ivan Celik,clothing,Aegean,2015,69,2458.11
+1001732,Elif Sahin,books,Central,2021,29,1784.73
+1001138,Can Ozturk,sports,Eastern,2017,63,4363.31
+1001403,Omar Nguyen,toys,Eastern,2019,51,6168.36
+1000316,Elif Rossi,toys,Eastern,2016,54,5878.07
+1000502,Layla Demir,toys,Aegean,2019,73,7865.84
+1001484,Lena Smith,books,Eastern,2020,49,9109.74
+1000185,Murat Nguyen,books,Eastern,2018,83,6430.34
+1000895,Murat Ozturk,clothing,Black Sea,2021,42,4563.32
+1000417,Fatma Patel,toys,Aegean,2021,41,2985.05
+1001757,Priya Dubois,automotive,Eastern,2019,89,2462.09
+1000484,Elif Johnson,furniture,Marmara,2015,51,5114.94
+1000379,Fatma Rossi,toys,Black Sea,2015,73,8653.58
+1000165,Omar Silva,sports,Black Sea,2019,26,9992.8
+1000630,Emre Celik,food,Black Sea,2022,35,8372.68
+1000618,Hassan Sahin,furniture,Eastern,2015,39,4266.21
+1000353,Layla Sahin,food,Black Sea,2024,8,5631.53
+1001809,Sara Sahin,toys,Mediterranean,2024,45,5885.9
+1000411,Emre Sahin,sports,Central,2019,64,1544.61
+1000303,Emre Muller,toys,Aegean,2017,64,9959.1
+1001913,Mia Dubois,toys,Mediterranean,2022,38,1055.58
+1000002,Wei Celik,books,Mediterranean,2021,5,394.96
+1000944,Priya Nguyen,books,Black Sea,2019,88,6479.1
+1000339,Murat Muller,clothing,Eastern,2022,83,2646.67
+1000811,Fatma Patel,food,Eastern,2019,42,1670.09
+1000940,Carlos Muller,automotive,Marmara,2017,4,4759.81
+1000709,Noah Khan,electronics,Eastern,2018,79,6872.52
+1001642,Yuki Patel,electronics,Marmara,2020,12,9439.8
+1000290,Can Celik,clothing,Central,2017,21,3294.02
+1001569,Mia Silva,sports,Eastern,2018,29,3427.82
+1001624,Can Rossi,toys,Southeastern,2017,38,4657.38
+1000634,Elif Sahin,automotive,Black Sea,2016,53,4462.37
+1001936,Priya Celik,automotive,Aegean,2024,4,4033.35
+1000111,Lucas Patel,furniture,Eastern,2022,83,7146.53
+1001615,Noah Celik,sports,Black Sea,2020,34,8125.31
+1000683,Murat Arslan,food,Eastern,2016,96,6891.14
+1001359,Ivan Celik,clothing,Central,2022,25,6349.58
+1000267,Can Muller,sports,Marmara,2020,56,8905.03
+1000286,Layla Lee,clothing,Mediterranean,2016,9,3161.67
+1001540,Can Yilmaz,sports,Mediterranean,2022,2,9624.48
+1001164,Lucas Kaya,furniture,Aegean,2019,18,388.48
+1000407,Emre Silva,automotive,Mediterranean,2023,66,4139.23
+1001074,Yuki Sahin,automotive,Central,2020,24,2130.83
+1001980,Layla Garcia,automotive,Mediterranean,2016,81,4598.9
+1001223,Zeynep Kaya,toys,Black Sea,2018,83,6893.06
+1001816,Omar Smith,furniture,Eastern,2017,56,8156.18
+1000616,Can Dubois,electronics,Eastern,2016,84,8376.75
+1000341,Fatma Ozturk,food,Southeastern,2021,66,3346.15
+1001049,Priya Celik,automotive,Black Sea,2018,11,5628.46
+1000336,Mia Patel,clothing,Eastern,2019,5,191.74
+1000059,Fatma Smith,books,Central,2023,53,9740.01
+1001215,Lena Kaya,automotive,Central,2024,17,2192.32
+1000821,Priya Patel,furniture,Mediterranean,2017,70,3541.53
+1001183,Amina Garcia,toys,Mediterranean,2016,15,1662.28
+1000552,Emre Yilmaz,books,Central,2024,79,8942.05
+1001586,Mia Tanaka,sports,Aegean,2017,1,1683.87
+1000873,Ali Khan,sports,Southeastern,2015,81,2650.77
+1000863,Murat Garcia,automotive,Black Sea,2015,43,2168.99
+1000221,Yuki Tanaka,books,Black Sea,2019,96,3460.84
+1001039,Ali Yilmaz,automotive,Mediterranean,2022,7,8914.95
+1001845,Nina Smith,sports,Eastern,2023,27,1315.08
+1001563,Zeynep Silva,furniture,Mediterranean,2017,94,5160.76
+1000480,Nina Arslan,food,Central,2015,31,4998.89
+1001797,Hassan Ozturk,furniture,Southeastern,2023,34,8233.87
+1000083,Ivan Dubois,toys,Southeastern,2022,79,8167.75
+1000615,Murat Rossi,electronics,Black Sea,2019,99,5393.33
+1000822,Wei Nguyen,sports,Southeastern,2024,71,1687.24
+1001390,Can Sahin,clothing,Central,2024,81,8010.74
+1000989,Can Celik,toys,Southeastern,2021,79,9187.7
+1000692,Can Demir,food,Mediterranean,2023,11,3116.14
+1001231,Carlos Johnson,toys,Southeastern,2017,28,1932.18
+1000765,Noah Dubois,toys,Black Sea,2024,36,4958.48
+1001482,Lena Tanaka,sports,Aegean,2019,86,4814.92
+1000518,Ali Celik,automotive,Marmara,2017,16,218.36
+1000499,Wei Muller,sports,Southeastern,2016,74,3790.43
+1001709,Ayse Arslan,toys,Marmara,2018,4,3342.32
+1000970,Lucas Lee,toys,Marmara,2015,73,4883.87
+1000818,Murat Sahin,automotive,Aegean,2020,72,7905.97
+1001497,Lena Silva,automotive,Central,2021,51,810.98
+1000891,Can Smith,food,Eastern,2015,72,3934.85
+1001423,Fatma Celik,toys,Central,2017,2,4080.78
+1001180,Murat Ozturk,sports,Mediterranean,2016,46,4266.2
+1001216,Can Garcia,toys,Southeastern,2015,96,800.1
+1000935,Wei Garcia,electronics,Mediterranean,2019,82,8931.25
+1001263,Layla Khan,toys,Marmara,2022,19,7723.73
+1001658,Layla Johnson,electronics,Mediterranean,2015,95,7926.06
+1000900,Diego Sahin,clothing,Southeastern,2017,23,7713.88
+1000045,Yuki Smith,electronics,Mediterranean,2016,54,6607.34
+1001541,Lucas Khan,clothing,Black Sea,2022,66,6882.02
+1001922,Ayse Dubois,electronics,Eastern,2015,49,993.41
+1001120,Mia Silva,furniture,Mediterranean,2018,53,1217.06
+1001919,Layla Silva,food,Central,2015,35,4906.02
+1000334,Lena Garcia,electronics,Southeastern,2016,84,5783.35
+1000628,Can Demir,clothing,Eastern,2017,43,3639.16
+1000734,Priya Andersen,books,Black Sea,2017,33,4823.22
+1001871,Ayse Andersen,electronics,Marmara,2024,28,8098.73
+1000384,Ivan Patel,clothing,Mediterranean,2015,68,434.82
+1000206,Lucas Lee,electronics,Mediterranean,2019,4,1885.94
+1001850,Emre Silva,electronics,Eastern,2019,5,5460.8
+1001327,Hassan Dubois,furniture,Marmara,2018,82,4020.86
+1000690,Ali Sahin,food,Southeastern,2023,38,9604.37
+1000686,Layla Tanaka,food,Central,2015,50,6764.98
+1001921,Emre Lee,furniture,Southeastern,2016,79,6145.83
+1000864,Ivan Arslan,furniture,Mediterranean,2023,97,2660.46
+1000326,Lena Patel,toys,Mediterranean,2019,37,1306.43
+1000017,Ivan Johnson,food,Mediterranean,2021,47,2271.06
+1001911,Yuki Smith,toys,Black Sea,2023,85,9546.96
+1001781,Omar Dubois,sports,Aegean,2024,56,6820.66
+1000735,Ali Yilmaz,sports,Mediterranean,2023,53,2652.01
+1001290,Lucas Patel,sports,Mediterranean,2022,44,7834.58
+1000215,Sara Garcia,toys,Marmara,2015,64,7494.69
+1001437,Nina Muller,clothing,Black Sea,2015,9,8710.81
+1000661,Diego Silva,sports,Southeastern,2021,2,5274.5
+1000070,Wei Arslan,toys,Black Sea,2016,86,9214.71
+1001846,Wei Sahin,electronics,Aegean,2022,84,7664.74
+1001206,Can Smith,clothing,Marmara,2022,34,1719.03
+1001924,Nina Arslan,toys,Mediterranean,2018,21,8396.84
+1000774,Ali Lee,food,Southeastern,2021,26,1543.71
+1001155,Omar Khan,sports,Black Sea,2023,41,2080.56
+1000763,Carlos Rossi,clothing,Southeastern,2016,16,9208.94
+1000662,Elif Tanaka,clothing,Marmara,2015,26,2742.82
+1001202,Priya Khan,food,Aegean,2019,15,3201.06
+1000957,Ayse Nguyen,sports,Black Sea,2024,74,4526.43
+1000287,Priya Patel,food,Southeastern,2021,74,830.06
+1000974,Yuki Garcia,electronics,Central,2023,100,206.74
+1000382,Ali Patel,toys,Central,2022,93,6452.13
+1001966,Nina Rossi,toys,Mediterranean,2016,11,8843.64
+1001349,Can Sahin,sports,Mediterranean,2021,66,9600.48
+1001059,Amina Patel,furniture,Southeastern,2018,42,3591.49
+1000237,Zeynep Garcia,food,Eastern,2020,17,6733.48
+1001889,Emre Andersen,books,Aegean,2015,76,5970.58
+1000065,Zeynep Johnson,toys,Eastern,2023,52,6826.55
+1000535,Zeynep Kaya,furniture,Mediterranean,2018,3,5311.31
+1000958,Fatma Muller,sports,Mediterranean,2019,56,7205.42
+1000447,Layla Patel,clothing,Marmara,2024,4,7978.42
+1000529,Carlos Smith,electronics,Southeastern,2019,8,8104.86
+1001954,Carlos Ozturk,books,Central,2023,29,3514.73
+1001584,Yuki Kaya,furniture,Eastern,2021,64,6877.79
+1001052,Yuki Andersen,electronics,Black Sea,2022,99,1472.24
+1000186,Elif Kaya,toys,Aegean,2017,73,2131.33
+1000551,Lena Johnson,books,Marmara,2020,22,8889.63
+1001627,Noah Kaya,books,Eastern,2024,10,4820.11
+1001522,Carlos Lee,furniture,Mediterranean,2020,36,1371.94
+1001700,Ali Tanaka,sports,Eastern,2015,36,921.25
+1001130,Carlos Tanaka,automotive,Mediterranean,2019,19,7702.43
+1001032,Nina Smith,automotive,Southeastern,2018,36,625.33
+1001433,Mia Arslan,electronics,Aegean,2024,57,7417.89
+1000701,Amina Silva,sports,Southeastern,2020,18,6827.16
+1000425,Emre Dubois,electronics,Mediterranean,2021,97,3382.48
+1000592,Sara Muller,sports,Central,2019,25,1584.15
+1001631,Amina Demir,sports,Marmara,2017,8,8822.57
+1001397,Lucas Tanaka,clothing,Marmara,2017,69,4241.87
+1001661,Noah Nguyen,automotive,Eastern,2023,60,1180.17
+1001324,Elif Celik,automotive,Central,2018,57,192.69
+1000711,Diego Sahin,automotive,Central,2015,29,7637.82
+1000889,Lucas Tanaka,electronics,Mediterranean,2021,93,3197.37
+1001439,Emre Andersen,furniture,Aegean,2023,11,4319.35
+1000432,Murat Demir,toys,Eastern,2016,87,8019.7
+1001165,Sara Lee,clothing,Eastern,2015,93,4909.35
+1001102,Ivan Muller,toys,Southeastern,2019,35,6885.21
+1000319,Mia Sahin,furniture,Marmara,2024,90,1187.86
+1000790,Amina Tanaka,sports,Aegean,2018,95,2913.05
+1001199,Can Demir,sports,Mediterranean,2024,49,3094.52
+1001710,Ali Yilmaz,clothing,Central,2019,62,2072.25
+1001945,Ayse Demir,clothing,Mediterranean,2016,22,2053.74
+1000076,Wei Ozturk,books,Central,2023,85,6365.48
+1000350,Zeynep Andersen,books,Marmara,2023,65,2101.15
+1001704,Hassan Yilmaz,furniture,Eastern,2021,49,8907.27
+1001408,Zeynep Celik,toys,Black Sea,2022,22,2602.14
+1001293,Diego Dubois,food,Black Sea,2018,51,3455.74
+1001699,Noah Ozturk,furniture,Eastern,2018,39,2018.71
+1000921,Emre Arslan,toys,Southeastern,2020,87,4842.69
+1001072,Emre Lee,sports,Aegean,2017,91,6958.61
+1001315,Omar Kaya,clothing,Eastern,2023,73,792.29
+1001582,Lucas Yilmaz,automotive,Black Sea,2023,65,7928.97
+1000715,Wei Johnson,clothing,Black Sea,2021,47,5917.43
+1000745,Ali Rossi,books,Mediterranean,2015,93,3904.44
+1001186,Fatma Yilmaz,food,Central,2017,51,8775.38
+1000728,Zeynep Smith,food,Black Sea,2017,14,263.95
+1001004,Sara Nguyen,electronics,Black Sea,2017,84,6438.68
+1000190,Ali Andersen,toys,Marmara,2017,34,618.7
+1000542,Wei Garcia,clothing,Aegean,2015,90,9491.16
+1000901,Can Silva,sports,Central,2022,37,6301.26
+1001429,Lena Demir,automotive,Black Sea,2023,82,7443.22
+1000532,Ali Andersen,food,Central,2017,23,2441.62
+1000605,Lena Kaya,electronics,Black Sea,2019,27,7635.05
+1000363,Can Nguyen,electronics,Aegean,2015,52,4445.29
+1000409,Lena Tanaka,electronics,Central,2021,50,7812.99
+1001810,Mia Yilmaz,electronics,Marmara,2017,30,1055.65
+1000559,Hassan Patel,sports,Marmara,2023,50,1930.14
+1000386,Priya Sahin,electronics,Aegean,2023,59,3794.31
+1001711,Zeynep Rossi,sports,Black Sea,2022,56,5174.79
+1000463,Mia Arslan,food,Southeastern,2018,64,2758.25
+1000848,Omar Kaya,food,Marmara,2015,99,3410.12
+1000647,Murat Smith,electronics,Central,2020,82,9646.93
+1001158,Wei Nguyen,sports,Eastern,2023,79,8541.62
+1000288,Lena Yilmaz,automotive,Black Sea,2023,45,1370.38
+1000572,Noah Silva,sports,Black Sea,2022,74,6128.12
+1000365,Wei Andersen,toys,Mediterranean,2024,99,6757.39
+1000588,Amina Ozturk,electronics,Aegean,2019,78,8069.54
+1001446,Omar Nguyen,sports,Black Sea,2023,78,4859.88
+1000777,Yuki Kaya,food,Marmara,2017,8,2232.91
+1000110,Carlos Johnson,electronics,Mediterranean,2018,11,2489.18
+1000636,Wei Andersen,furniture,Eastern,2020,67,5278.2
